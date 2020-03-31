@@ -59,7 +59,7 @@ education:
 #          - Bullet point
 #          - Bullet point
     - degree: MSc in Applied Linguistics / Computational Linguistics
-      university: Ruhr niversity Bochum, Germany
+      university: Ruhr University Bochum, Germany
       time: 2006 - 2009
       details: |
         
@@ -133,7 +133,7 @@ projects:
 publications:
     title: Publications
     intro: |
-#      You can list your publications in this section.
+      Selected publications, please also visit my <a href="https://scholar.google.com/citations?user=iI8CT3EAAAAJ&hl=en">Google scholar page</a>.
     papers:
       - title: Enhancing statistical machine translation with bilingual terminology in a CAT environment
         link: "https://www.researchgate.net/profile/Mihael_Arcan/publication/265367296_Enhancing_Statistical_Machine_Translation_with_Bilingual_Terminology_in_a_CAT_Environment/links/5409be260cf2df04e7484d15/Enhancing-Statistical-Machine-Translation-with-Bilingual-Terminology-in-a-CAT-Environment.pdf"
