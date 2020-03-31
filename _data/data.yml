@@ -47,28 +47,22 @@ career-profile:
     summary: I am a research fellow at Insight Centre for Data Analytics at the Data Science Institute (DSI) and Adjunct Lecturer Adjunct Lecturer at the School of Computer Science at NUI Galway. I am working in the Unit for Natural Language Processing (UNLP) under the supervision of Dr Paul Buitelaar, where my main research topic focuses on terminology and ontology translation with statistical as well as neural machine translation (SMT/NMT). I defended my PhD thesis with the title Machine Translation of Domain-Specific Expressions within  Ontologies and Documents. I studied the German Language at the University of Ljubljana, Slovenia, where I defended my Diploma thesis Named Entity Recognition for German and Slovene under the supervision of Dr Stojan Bracic and Dr Spela Vintar. In 2009 I obtained my master’s degree in Computational linguistics at the Ruhr University in Bochum, Germany. My thesis under the supervision of Prof. Dr Ralf Klabunde dealt with the extraction of semantic relations from the Slovene national corpus. After my study, I worked for Lionbridge as a developer of language technologies for Slovene, and for the Slovenian Project Communication in Slovene.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Computer Science
+      university: National University Of Ireland
+      time: 2011 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+#        Describe your study here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#        sociis natoque penatibus et magnis dis parturient montes, nascetur
+#        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#        pretium quis, sem.
+#          - Bullet point
+#          - Bullet point
+    - degree: MSc in Applied Linguistics / Computational Linguistics
+      university: Ruhr niversity Bochum, Germany
+      time: 2006 - 2009
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
 experiences:
     - role: Lead Developer
       time: 2015 - Present
