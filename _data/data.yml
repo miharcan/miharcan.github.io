@@ -108,25 +108,29 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: NURS
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "The project focuses on neural machine translation (NMT) for under-resourced scenarios, i.e. languages or technical domains, using sequence-to-sequence models. To improve the translation quality within under-resourced scenarios, the work will involve data curation due to the code-mixing phenomena within the training data, terminology identification as well as linguistic injunction into the neural models."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: ELEXIS
+        link: "https://elex.is/"
+        tagline: "The ELEXIS project benefits from the expertise of some of the top experts in the fields of lexicography, linguistics and natural language processing, who agreed to share their experience and contribute their efforts to the success of the project."
 
-      - title: Tempo
+      - title: MixedEmotions
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "MixedEmotions will develop innovative multilingual multi-modal Big Data analytics applications that will analyze a more complete emotional profile of user behaviour using data from mixed input channels: multilingual text data sources, A/V signal input and structured data."
 
-      - title: Atom
+      - title: EuroSentiment
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "The project aims to develop a large shared data pool for language resources meant to be used by sentiment analysis systems, in order to bundle together scattered resources."
 
-      - title: Delta
+      - title: LIDER
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "The project’s mission is to provide the basis for the creation of a Linguistic Linked Data cloud that can support content analytics tasks of unstructured multilingual cross-media content."
+        
+      - title: Monnet
+        link: "#"
+        tagline: "The Monnet project provides a semantics-based solution for accessing information across language barriers."
 
 publications:
     title: Publications
