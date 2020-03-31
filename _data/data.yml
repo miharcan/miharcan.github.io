@@ -105,8 +105,7 @@ projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      section.
     assignments:
       - title: NURS
         link: "#hook"
@@ -135,46 +134,23 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#      You can list your publications in this section.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Enhancing statistical machine translation with bilingual terminology in a CAT environment
+        link: "https://www.researchgate.net/profile/Mihael_Arcan/publication/265367296_Enhancing_Statistical_Machine_Translation_with_Bilingual_Terminology_in_a_CAT_Environment/links/5409be260cf2df04e7484d15/Enhancing-Statistical-Machine-Translation-with-Bilingual-Terminology-in-a-CAT-Environment.pdf"
+        authors: Mihael Arcan, Marco Turchi, Sara Tonelli, Paul Buitelaar
+        conference: Proceedings of the 11th Biennial Conference of the Association for Machine Translation in the Americas (AMTA 2014)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Knowledge Portability with Semantic Expansion of Ontology Labels"
+        link: "https://www.aclweb.org/anthology/P15-1069.pdf"
+        authors: Mihael Arcan, Marco Turchi, Paul Buitelaar
+        conference: "Proceedings of the Association for Computational Linguistics (ACL-2015)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Domain adaptation for ontology localization
+        link: "https://www.sciencedirect.com/science/article/pii/S1570826815001420"
+        authors: John P McCrae, Mihael Arcan, Kartik Asooja, Jorge Gracia, Paul Buitelaar, Philipp Cimiano
+        conference: "Journal of Web Semantics (2016)"
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
