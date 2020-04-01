@@ -14,7 +14,9 @@ sidebar:
     # Sidebar links
     email: mihael.arcan@nuigalway.ie
     #phone: 012 345 6789
-    #website: blog.webjeda.com #do not add http://
+    website1: Insight profile #do not add http://
+    website1: DSI profile #do not add http://
+    website1: NUI Galway profile #do not add http://
     linkedin: mihael-arcan-593b3777
     github: miharcan
     #gitlab:
