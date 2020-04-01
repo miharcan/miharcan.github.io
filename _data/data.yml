@@ -17,12 +17,13 @@ sidebar:
     website1: Insight profile #do not add http://
     website2: DSI profile #do not add http://
     website3: NUI Galway profile #do not add http://
-    linkedin: mihael-arcan-593b3777
-    github: miharcan
+    linkedin: LinkedIn
+    #github: miharcan
     #gitlab:
     #bitbucket:
     twitter: '@miharcan'
     gscholar: 'Google Scholar'
+    orcid: 'ORCID'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
