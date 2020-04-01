@@ -36,6 +36,12 @@
       <a href="http://gitlab.com/{{ sidebar.gitlab }}" target="_blank">{{ sidebar.gitlab }}</a>
     </li>
     {% endif %}
+    
+     {% if sidebar.gscholar %}
+    <li class="gitlab"><i class="fab fa-gitlab"></i>
+      <a href="https://scholar.google.com/citations?user={{ sidebar.gscholar }}&hl" target="_blank">{{ sidebar.gitlab }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.bitbucket %}
     <li class="bitbucket"><i class="fab fa-bitbucket"></i>
