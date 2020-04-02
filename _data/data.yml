@@ -113,7 +113,7 @@ projects:
     assignments:
       - title: NURS
         link: "#hook"
-        tagline: "The project focuses on neural machine translation (NMT) for under-resourced scenarios, i.e. languages or technical domains, using sequence-to-sequence models. To improve the translation quality within under-resourced scenarios, the work will involve data curation due to the code-mixing phenomena within the training data, terminology identification as well as linguistic injunction into the neural models."
+        tagline: "The project focused on neural machine translation (NMT) for under-resourced scenarios, i.e. languages or technical domains, using sequence-to-sequence models."
 
       - title: ELEXIS
         link: "https://elex.is/"
@@ -121,19 +121,19 @@ projects:
 
       - title: MixedEmotions
         link: "#"
-        tagline: "MixedEmotions will develop innovative multilingual multi-modal Big Data analytics applications that will analyze a more complete emotional profile of user behaviour using data from mixed input channels: multilingual text data sources, A/V signal input and structured data."
+        tagline: "MixedEmotions developed innovative multilingual multi-modal Big Data analytics applications to analyse a more complete emotional profile of user behaviour using data from mixed input channels."
 
       - title: EuroSentiment
         link: "#"
-        tagline: "The project aims to develop a large shared data pool for language resources meant to be used by sentiment analysis systems, in order to bundle together scattered resources."
+        tagline: "The project aimed to develop a large shared data pool for language resources meant to be used by sentiment analysis systems, in order to bundle together scattered resources."
 
       - title: LIDER
         link: "#"
-        tagline: "The project’s mission is to provide the basis for the creation of a Linguistic Linked Data cloud that can support content analytics tasks of unstructured multilingual cross-media content."
+        tagline: "The project’s mission was to provide the basis for the creation of a Linguistic Linked Data cloud that can support content analytics tasks of unstructured multilingual cross-media content."
         
       - title: Monnet
         link: "#"
-        tagline: "The Monnet project provides a semantics-based solution for accessing information across language barriers."
+        tagline: "The Monnet project provided a semantics-based solution for accessing information across language barriers."
 
 publications:
     title: Publications
