@@ -86,14 +86,11 @@ experiences:
       details: |
           - ANLP
           - NLP
-    - role: UI Developer
-	  time: 2017-
-      details: |
-          - Bullet point
-          - Bullet point
-
-       
-
+#    - role: UI Developer
+#	  time: 2017-
+#      details: |
+#          - Bullet point
+#          - Bullet point
 
 projects:
     title: Projects
