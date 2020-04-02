@@ -74,22 +74,15 @@ education:
       details: |
 
 experiences:
-    - role: Lead Developer
-#      time: 2015 - Present
-#      company: Startup Hubs, San Francisco
+    - role: Co-supervision of PhD and Master Students
       details: |
-          - Bullet point
+          - Nivranshu Pasricha
           - Bullet point
     - role: Senior Software Engineer
 #      time: 2014 - 2015
 #      company: Google, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
+          - xxx
           - Bullet point
     - role: UI Developer
 #      time: 2012 - 2014
