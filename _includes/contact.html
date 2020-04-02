@@ -20,23 +20,17 @@
     {% endif %}
     
     {% if sidebar.website2 %}
-    <li class="website2"><i class="fas fa-globe-americas"></i>
+    <li class="website2"><i class="fas fa-globe-africa"></i>
       <a href="https://datascienceinstitute.ie/people/88b498677b9bf3780bf3d5151abbc5d69112dff8" target="_blank">{{ sidebar.website2 }}</a>
     </li>
     {% endif %}
     
     {% if sidebar.website3 %}
-    <li class="website3"><i class="fa fa-globe"></i>
+    <li class="website3"><i class="fas fa-globe-africa"></i>
       <a href="http://www.nuigalway.ie/our-research/people/mihaelarcan/" target="_blank">{{ sidebar.website3 }}</a>
     </li>
     {% endif %}
     
-    {% if sidebar.location %}
-    <li class="location"><i class="fa fa-globe"></i>
-      <a href="https://www.google.com/maps/place/Galway/@53.2838294,-9.1888286,11z/data=!3m1!4b1!4m5!3m4!1s0x485b93955a2d5bff:0x32b1b440a495281!8m2!3d53.270668!4d-9.0567905" target="_blank">{{ sidebar.location }}</a>
-    </li>
-    {% endif %}
-
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
       <a href="https://www.linkedin.com/in/mihael-arcan-593b3777" target="_blank">{{ sidebar.linkedin }}</a>
@@ -94,6 +88,12 @@
     {% if sidebar.goodreads %}
     <li class="goodreads-g"><i class="fab fa-goodreads-g"></i>
       <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
+    </li>
+    {% endif %}
+    
+    {% if sidebar.location %}
+    <li class="location"><i class="fa fa-map-marker"></i>
+      <a href="https://www.google.com/maps/place/Galway/@53.2838294,-9.1888286,11z/data=!3m1!4b1!4m5!3m4!1s0x485b93955a2d5bff:0x32b1b440a495281!8m2!3d53.270668!4d-9.0567905" target="_blank">{{ sidebar.location }}</a>
     </li>
     {% endif %}
 
