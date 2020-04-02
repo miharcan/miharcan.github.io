@@ -73,9 +73,9 @@ education:
       time: 1999 - 2006
       details: |
         
-#experiences:
-#    - role: Lead Developer
-#      time: 2015 - Present
+experiences:
+    - role: Co-supervision of PhD and Master Students
+#      time: 2017 - Present
 #      company: Startup Hubs, San Francisco
 #      details: |
 #        Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -87,9 +87,11 @@ education:
 #        error sit voluptatem accusantium doloremque laudantium, totam rem
 #        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
 #        architecto beatae vitae dicta sunt explicabo.
-#          - Bullet point
-#          - Bullet point
-#    - role: Senior Software Engineer
+		  - Nivranshu (2019-2020/PhD) on Machine Translation for under-resourced languages
+		  - Shardul (2019-/PhD) on Machine Translation for under-resourced languages
+          - Rajdeep (2019-/PhD) on Machine Translation for under-resourced languages
+          - Bharathi Raja Asoka Chakravarthi (2016-2020/PhD) on Machine Translation for under-resourced languages
+    - role: Teaching
 #      time: 2014 - 2015
 #      company: Google, London
 #      details: |
@@ -98,8 +100,8 @@ education:
 #        Cum sociis natoque penatibus et magnis dis parturient montes,
 #        nascetur ridiculus mus. Donec quam felis, ultricies nec,
 #        pellentesque eu, pretium quis, sem.
-#          - Bullet point
-#          - Bullet point
+          - Bullet point
+          - Bullet point
 #    - role: UI Developer
 #      time: 2012 - 2014
 #      company: Amazon, London
