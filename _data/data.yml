@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Mihael Arcan
     tagline: Research Fellow <br> @ <a href="https://dsi.nuigalway.ie/" target="_blank">Data Science Institute</a>, <br> <a href="http://www.nuigalway.ie/" target="_blank">NUI Galway</b>
-    avatar: DSC_0385_square.JPG	  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: DSC_0385_square.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mihael.arcan@nuigalway.ie
@@ -49,7 +49,7 @@ sidebar:
 
 career-profile:
     title: Academic Profile
-    summary: I am a research fellow at Insight Centre for Data Analytics at the Data Science Institute (DSI) and Adjunct Lecturer Adjunct Lecturer at the School of Computer Science at NUI Galway. I am working in the Unit for Natural Language Processing (UNLP) under the supervision of Dr Paul Buitelaar, where my main research topic focuses on terminology and ontology/knowledge graph translation with neural machine translation. Recently, I am also following the work on dialogue systems and natural language generation with multi-modal data.
+    summary:  <p align="justify"> I am a research fellow at Insight Centre for Data Analytics at the Data Science Institute (DSI) and Adjunct Lecturer Adjunct Lecturer at the School of Computer Science at NUI Galway. I am working in the Unit for Natural Language Processing (UNLP) under the supervision of Dr Paul Buitelaar, where my main research topic focuses on terminology and ontology/knowledge graph translation with neural machine translation. Recently, I am also following the work on dialogue systems and natural language generation with multi-modal data.</p>
 
 education:
     - degree: PhD in Computer Science
@@ -86,16 +86,19 @@ experiences:
       details: |
           - Advanced Natural Language Processing (2018/2019 - )
           - Introduction to Natural Language Processing (2016/2017, 2017/2018)
-    - role: Organising
+    - role: Event Organisation
 #      time: 2017-
       details: |
+          - Organising Committee ESSLLI 2022
           - Multilingualism at the intersection of Knowledge Bases and Machine Translation (MomenT) Workshop: 2018@LREC, 2019@MT-Summit
           - Local organiser of Language, Data and Knowledge (LDK) 2017, Galway, Ireland
           - Local organiser ESSLLI 2011
     - role: Invited Talks
 #      time: 2016-
       details: |
-          - “Translation Technology Terminology Conference (2014)” on Statistical Machine Translation and Terminology.
+          - Meet Central Europe (2018) on “The Neural Age of Machine Translation”. Budapest, Hungary.
+          - “Translation Technology Terminology Conference (2014)” on Statistical Machine Translation and Terminology. Bled, Slovenia
+          - “Translation Technology Terminology Conference (2013)” on Statistical Machine Translation and Terminology. Zadar, Croatia.
 
 projects:
     title: Projects
@@ -111,7 +114,7 @@ projects:
         tagline: "The ELEXIS project benefits from the expertise of some of the top experts in the fields of lexicography, linguistics and natural language processing, who agreed to share their experience and contribute their efforts to the success of the project."
 
       - title: MixedEmotions
-        link: "#"
+        link: "http://mixedemotions.insight-centre.org/"
         tagline: "MixedEmotions developed innovative multilingual multi-modal Big Data analytics applications to analyse a more complete emotional profile of user behaviour using data from mixed input channels."
 
       - title: EuroSentiment
@@ -134,7 +137,7 @@ demos:
       - title: Marvin
         link: "http://server1.nlp.insight-centre.org/marvin/"
         tagline: "a conversational chatbot with major depression disorder detection."
-
+        
       - title: GrumpyBot
         link: "http://server1.nlp.insight-centre.org/grumpybot/"
         tagline: "a sequence to sequence deep learning chatbot using linked data."
@@ -158,6 +161,23 @@ demos:
       - title: TeTra
         link: "http://server1.nlp.insight-centre.org/tetra/"
         tagline: "a system for extracting and translating specific vocabulary (CURRENTLY OFFLINE)"
+        
+datas:
+    title: Resources
+    intro: >
+#
+    assignments:
+      - title: BitterCorpus – Bilingual IT Terminology Annotated Corpus
+        link: "http://hlt-mt.fbk.eu/technologies/bittercorpus"
+        tagline: "annotated corpora for the evaluation of monolingual and bilingual domain-specific term extraction (with HLT FBK)."
+
+      - title: PE²rr
+        link: "https://nuig.insight-centre.org/unlp/research/resources/pe2rr/"
+        tagline: "PostEdited and ERRor annotated corpus covers machine translations, their post-edited versions and error annotations of the performed edit-operations."
+        
+      - title: Polylingual WordNet
+        link: "http://polylingwn.linguistic-lod.org/"
+        tagline: extends WordNet for 23 languages by automatic translation and is released as both OntoLex JSON-LD as well as in the Global WordNet LMF. This resource is available for re-use under the Creative Commons Attribution 4.0 License.
 
 publications:
     title: Publications

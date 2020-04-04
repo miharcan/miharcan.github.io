@@ -155,7 +155,7 @@ p {
 
 .main-wrapper {
     background: #fff;
-    padding: 60px;
+    padding: 40px;
     padding-right: 340px;
     .section-title {
         text-transform: uppercase;
@@ -167,12 +167,12 @@ p {
         margin-bottom: 20px;
     }
     .section {
-        margin-bottom: 60px;
+        margin-bottom: 40px;
     }
 
-    .experiences-section, .educations-section, .demos-section {
+    .experiences-section, .educations-section, .demos-section, .datas-section {
         .item {
-            margin-bottom: 30px;
+            margin-bottom: 10px;
         }
     }
     .upper-row {
@@ -207,10 +207,10 @@ p {
     }
     .projects-section {
         .intro {
-            margin-bottom: 30px;
+            margin-bottom: 00px;
         }
         .item {
-            margin-bottom: 15px;
+            margin-bottom: 10px;
         }
     }
 

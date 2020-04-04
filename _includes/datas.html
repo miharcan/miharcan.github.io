@@ -1,0 +1,38 @@
+{% assign datas = site.data.data.datas %}
+{% if datas %}
+<section class="section datas-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-database fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ datas.title }}
+  </h2>
+
+  {% if datas.intro %}
+  <div class="intro">
+      <p>{{ datas.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for data in datas.assignments %}
+    <div class="item">
+
+      <span class="data-title">
+        {% if data.link %}
+        <a href="{{ data.link }}" target="_blank">{{ data.title }}</a>
+        {% else %}
+        {{ data.title }}
+        {% endif %}
+      </span>
+
+      {% if data.tagline %}
+      - <span class="data-tagline">{{ data.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
