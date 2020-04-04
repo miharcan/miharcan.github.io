@@ -1,0 +1,38 @@
+{% assign demos = site.data.data.demos %}
+{% if demos %}
+<section class="section demos-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ demos.title }}
+  </h2>
+
+  {% if demos.intro %}
+  <div class="intro">
+      <p>{{ demos.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for demo in demos.assignments %}
+    <div class="item">
+
+      <span class="demo-title">
+        {% if demo.link %}
+        <a href="{{ demo.link }}" target="_blank">{{ demo.title }}</a>
+        {% else %}
+        {{ demo.title }}
+        {% endif %}
+      </span>
+
+      {% if demo.tagline %}
+      - <span class="demo-tagline">{{ demo.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
