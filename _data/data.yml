@@ -22,8 +22,8 @@ sidebar:
     #gitlab:
     #bitbucket:
     twitter: '@miharcan'
-    gscholar: 'Google Scholar'
-    orcid: 'ORCID'
+    gscholar: Google Scholar
+    orcid: ORCID
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
@@ -194,6 +194,11 @@ publications:
         authors: Mihael Arcan, Marco Turchi, Paul Buitelaar
         conference: "Proceedings of the Association for Computational Linguistics (ACL-2015)"
 
+      - title: Expanding wordnets to new languages with multilingual sense disambiguation
+        link: "https://www.aclweb.org/anthology/C16-1010.pdf"
+        authors: Mihael Arcan, John P McCrae, Paul Buitelaar
+        conference: "International Conference on Computational Linguistics (COLING-2016)"
+        
       - title: Domain adaptation for ontology localization
         link: "https://www.sciencedirect.com/science/article/pii/S1570826815001420"
         authors: John P McCrae, Mihael Arcan, Kartik Asooja, Jorge Gracia, Paul Buitelaar, Philipp Cimiano
