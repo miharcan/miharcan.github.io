@@ -49,13 +49,13 @@ sidebar:
 
 career-profile:
     title: Academic Profile
-    summary:  <p align="justify"> I am a research fellow at Insight Centre for Data Analytics at the Data Science Institute (DSI) and Adjunct Lecturer Adjunct Lecturer at the School of Computer Science at NUI Galway. I am working in the Unit for Natural Language Processing (UNLP) under the supervision of Dr Paul Buitelaar, where my main research topic focuses on terminology and ontology/knowledge graph translation with neural machine translation. Recently, I am also following the work on dialogue systems and natural language generation with multi-modal data.</p>
+    summary:  <p align="justify">I am a research fellow at the Data Science Institute (DSI) and Adjunct Lecturer at the School of Computer Science at NUI Galway. I am working in the Unit for Natural Language Processing (UNLP) under the supervision of Dr Paul Buitelaar, where my main research topic focuses on terminology and ontology/knowledge graph translation with neural machine translation. Recently, I am also following the work on dialogue systems and natural language generation with multi-modal data. I am primarily funded by the nationwide Insight SFI Research Centre for Data Analytics, which is hosted within DSI.</p>
 
 education:
     - degree: PhD in Computer Science
       university: National University Of Ireland Galway
       time: 2011 - 2017
-      details: |
+#      details: |
 #        Describe your study here lorem ipsum dolor sit amet, consectetuer
 #        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
 #        sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -66,21 +66,21 @@ education:
     - degree: MSc in Applied Linguistics / Computational Linguistics
       university: Ruhr University Bochum, Germany
       time: 2006 - 2009
-      details: |
+#      details: |
       
     - degree: Diploma in German Language and Literature 
       university: University of Ljubljana, Slovenia
       time: 1999 - 2006
-      details: |
+#      details: |
 
 experiences:
     - role: Co-supervision of PhD and Master Students
       time: 2017-
       details: |
-          - Nivranshu Pasricha (2019-/PhD) on Data2Text generation
-          - Shardul Suryawanshi (2019-/PhD) on offensive content detection
-          - Rajdeep Sarkar (2019-/PhD) on dialogue systems
-          - Bharathi Raja Asoka Chakravarthi (2016-2020/PhD) on Machine Translation for under-resourced languages
+          - Nivranshu Pasricha (2019-/PhD) on Data2Text Generation
+          - Shardul Suryawanshi (2019-/PhD) on Offensive Content Detection
+          - Rajdeep Sarkar (2019-/PhD) on Dialogue Systems
+          - Bharathi Raja Asoka Chakravarthi (2016-2020/PhD) on Machine Translation for Under-Resourced Languages
     - role: Teaching
       time: 2016-
       details: |
@@ -90,15 +90,15 @@ experiences:
 #      time: 2017-
       details: |
           - Organising Committee ESSLLI 2022
-          - Multilingualism at the intersection of Knowledge Bases and Machine Translation (MomenT) Workshop: 2018@LREC, 2019@MT-Summit
+          - Multilingualism at the intersection of Knowledge Bases and Machine Translation (MomenT) Workshop: <br>2018@LREC, 2019@MT-Summit
           - Local organiser of Language, Data and Knowledge (LDK) 2017, Galway, Ireland
           - Local organiser ESSLLI 2011
     - role: Invited Talks
 #      time: 2016-
       details: |
-          - Meet Central Europe (2018) on “The Neural Age of Machine Translation”. Budapest, Hungary.
-          - “Translation Technology Terminology Conference (2014)” on Statistical Machine Translation and Terminology. Bled, Slovenia
-          - “Translation Technology Terminology Conference (2013)” on Statistical Machine Translation and Terminology. Zadar, Croatia.
+          - Meet Central Europe (MCE 2018) on <i>The Neural Age of Machine Translation</i>. Budapest, Hungary.
+          - Translation Technology Terminology Conference (TTT-2014) on <i>Statistical Machine Translation and Terminology</i>. Bled, Slovenia
+          - Translation Technology Terminology Conference (TTT-2013) on <i>Statistical Machine Translation</i>. Zadar, Croatia.
 
 projects:
     title: Projects
