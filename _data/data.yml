@@ -173,7 +173,8 @@ datas:
         tagline: "annotated corpora for the evaluation of monolingual and bilingual domain-specific term extraction (with HLT FBK)."
 
       - title: PE²rr
-        link: "https://nuig.insight-centre.org/unlp/research/resources/pe2rr/"
+        #link: "https://nuig.insight-centre.org/unlp/research/resources/pe2rr/"
+        link: "https://www.clarin.si/repository/xmlui/handle/11356/1065"
         tagline: "PostEdited and ERRor annotated corpus covers machine translations, their post-edited versions and error annotations of the performed edit-operations."
         
       - title: Polylingual WordNet
