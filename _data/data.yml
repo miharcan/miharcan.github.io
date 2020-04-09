@@ -142,22 +142,22 @@ demos:
       - title: GrumpyBot
         link: "http://server1.nlp.insight-centre.org/grumpybot/"
         tagline: "a sequence to sequence deep learning chatbot using linked data."
-     
-      - title: Insight META System
-        link: "http://nlp.insight-centre.org/research/demos/insight-meta-system/"
-        tagline: "an SMT system accessible through an API request, supporting all official European Union languages. (CURRENTLY OFFLINE)"
-        
-      - title: ASISTENT
-        link: "http://server1.nlp.insight-centre.org/asistent/"
-        tagline: "an SMT/NMT system translating between English and morphological rich South Slavic languages (Slovene, Serbian, Croatian)."
-        
-      - title: OTTO
-        link: "http://server1.nlp.insight-centre.org/otto/"
-        tagline: "an SMT system for multilingual enhancement of ontologies. (CURRENTLY OFFLINE)"
         
       - title: IRIS
         link: "http://server1.nlp.insight-centre.org/iris/"
         tagline: "an SMT/NMT system translating from English to (less-resourced) Irish and v.v."
+        
+      - title: ASISTENT
+        link: "http://server1.nlp.insight-centre.org/asistent/"
+        tagline: "an SMT/NMT system translating between English and morphological rich South Slavic languages (Slovene, Serbian, Croatian)."
+     
+      - title: Insight META System
+        link: "http://nlp.insight-centre.org/research/demos/insight-meta-system/"
+        tagline: "an SMT system accessible through an API request, supporting all official European Union languages."
+        
+      - title: OTTO
+        link: "http://server1.nlp.insight-centre.org/otto/"
+        tagline: "an SMT system for multilingual enhancement of ontologies. (CURRENTLY OFFLINE)"
         
       - title: TeTra
         link: "http://server1.nlp.insight-centre.org/tetra/"
