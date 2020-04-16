@@ -65,7 +65,7 @@ education:
 #        pretium quis, sem.
 #          - Bullet point
 #          - Bullet point
-    - degree: MSc in Applied Linguistics / Computational Linguistics
+    - degree: MSc in Computational Linguistics
       university: Ruhr University Bochum, Germany
       time: 2006 - 2009
 #      details: |
@@ -210,7 +210,7 @@ publications:
       - title: Leveraging bilingual terminology to improve machine translation in a CAT environment
         link: "https://cris.fbk.eu/retrieve/handle/11582/310787/18835/nleguide.pdf"
         authors: Mihael Arcan, Marco Turchi, Sara Tonelli, Paul Buitelaar
-        conference: "Natural Language Engineering 23 (5)"
+        conference: "Natural Language Engineering 23(5)"
 
 
 footer: >
