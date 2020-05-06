@@ -49,7 +49,7 @@ sidebar:
 
 career-profile:
     title: Academic Profile
-    summary:  <p align="justify">I am a research fellow at the Data Science Institute (DSI) and Adjunct Lecturer at the School of Computer Science at NUI Galway. I am working in the Unit for Natural Language Processing (UNLP) under the supervision of Dr Paul Buitelaar, where my main research topic focuses on terminology and knowledge graph injection into neural machine translation architecture. Recently, I am also following the work on dialogue systems and natural language generation with multi-modal data. I am primarily funded by the nationwide Insight SFI Research Centre for Data Analytics, which is hosted within DSI. </p> <p style="margin-left:10px"><b>Interests</b>:&nbsp;&bull;&nbsp;Natural language Processing&nbsp;&bull;&nbsp;Machine Translation&nbsp;&bull;&nbsp;Dialogue Systems&nbsp;&bull;&nbsp;Knowledge Graphs </p>
+    summary:  <p align="justify">I am a research fellow at the <a href="https://dsi.nuigalway.ie/" target="_blank">Data Science Institute (DSI)</a> and Adjunct Lecturer at the <a href="http://www.cs.nuigalway.ie/" target="_blank">School of Computer Science</a> at the <a href="http://www.nuigalway.ie/" target="_blank">National University of Ireland Galway (NUI Galway)</a>. I am working in the <a href="https://dsi.nuigalway.ie/units/unlp" target="_blank">Unit for Natural Language Processing (UNLP)</a> under the supervision of Dr <a href="http://paulbuitelaar.net/#/" target="_blank">Paul Buitelaar</a>, where my main research topic focuses on terminology and knowledge graph injection into neural machine translation architecture. Recently, I am also following the work on dialogue systems and natural language generation with multi-modal data. I am primarily funded by the nationwide <a href="https://www.insight-centre.org/" target="_blank">Insight SFI Research Centre for Data Analytics</a>, which is also hosted within DSI. </p> <p style="margin-left:10px"><b>Interests</b>:&nbsp;&bull;&nbsp;Natural Language Processing&nbsp;&bull;&nbsp;Machine Translation&nbsp;&bull;&nbsp;Dialogue Systems&nbsp;&bull;&nbsp;Knowledge Graphs </p>
  
      
 
@@ -83,7 +83,7 @@ experiences:
           - Shardul Suryawanshi (2019-/PhD/with Paul Buitelaar) on Offensive Content Detection
           - <a href="https://scholar.google.com/citations?hl=en&user=SAUjoI0AAAAJ" target="_blank">Rajdeep Sarkar</a> (2019-/PhD/with John P. McCrae) on Dialogue Systems
           - <a href="https://scholar.google.com/citations?hl=en&user=irCl028AAAAJ" target="_blank">Bharathi Raja Asoka Chakravarthi</a> (2016-2020/PhD/with John P. McCrae) on Machine Translation for Under-Resourced Languages
-          - <a href="https://scholar.google.com/citations?user=d_CCqNYAAAAJ&hl=en" target="_blank">Fionn Delahunty</a> (2019/MA/with Robert Johansson) on Passive Diagnosis of Mental Health Disorders
+          - <a href="https://scholar.google.com/citations?user=d_CCqNYAAAAJ&hl=en" target="_blank">Fionn Delahunty</a> (2019/MSc/with Robert Johansson) on Passive Diagnosis of Mental Health Disorders
     - role: Teaching - as part of the MSc in Computer Science @NUI Galway - <a href="https://www.nuigalway.ie/courses/taught-postgraduate-courses/msc-in-computer-science-data-analytics.html">Data Analytics</a> and <a href="https://www.nuigalway.ie/courses/taught-postgraduate-courses/computer-science-artificial-intelligence.html">AI</a>.
       time: 2016-
       details: |
@@ -93,7 +93,7 @@ experiences:
 #      time: 2017-
       details: |
           - Organising Committee ESSLLI 2022
-          - Multilingualism at the intersection of Knowledge Bases and Machine Translation (MomenT) Workshop: <br>@LREC 2018 (<a href="http://lrec-conf.org/workshops/lrec2018/W19/pdf/book_of_proceedings.pdf" target="_blank">proceedings</a>), @MT-Summit 2019 (<a href="https://moment2019.insight-centre.org/wp-content/uploads/2019/08/705d57_6ffdbe9400a34f50b8c30c1c05068f72.pdf" target="_blank">proceedings</a>)
+          - Workshop on Multilingualism at the intersection of Knowledge Bases and Machine Translation (MomenT): <br>@LREC 2018 (<a href="http://lrec-conf.org/workshops/lrec2018/W19/pdf/book_of_proceedings.pdf" target="_blank">proceedings</a>), @MT-Summit 2019 (<a href="https://moment2019.insight-centre.org/wp-content/uploads/2019/08/705d57_6ffdbe9400a34f50b8c30c1c05068f72.pdf" target="_blank">proceedings</a>)
           - Local organiser of Language, Data and Knowledge (LDK) 2017, Galway, Ireland
           - Local organiser ESSLLI 2011
     - role: Program Committee
