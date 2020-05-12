@@ -158,7 +158,7 @@ demos:
         tagline: "an SMT/NMT system translating between English and morphological rich South Slavic languages."
      
       - title: Insight META System
-        link: "http://nlp.insight-centre.org/research/demos/insight-meta-system/"
+        link: "https://github.com/miharcan/Insight-META-System"
         tagline: "an SMT system accessible through an API request, supporting all official European Union languages."
         
       - title: OTTO
