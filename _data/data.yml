@@ -115,27 +115,27 @@ projects:
     assignments:
       - title: NURS
         link: "#hook"
-        tagline: "The project focused on neural machine translation (NMT) for under-resourced scenarios, i.e. languages or technical domains, using sequence-to-sequence models."
+        tagline: "The project focused on neural machine translation (NMT) for under-resourced scenarios, i.e. languages or technical domains, using sequence-to-sequence models. (role:PI)"
 
-      - title: ELEXIS
-        link: "https://elex.is/"
-        tagline: "The ELEXIS project benefits from the expertise of some of the top experts in the fields of lexicography, linguistics and natural language processing, who agreed to share their experience and contribute their efforts to the success of the project."
+#      - title: ELEXIS
+#        link: "https://elex.is/"
+#        tagline: "The ELEXIS project benefits from the expertise of some of the top experts in the fields of lexicography, linguistics and natural language processing, who agreed to share their experience and contribute their efforts to the success of the project."
 
       - title: MixedEmotions
         link: "http://mixedemotions.insight-centre.org/"
-        tagline: "MixedEmotions developed innovative multilingual multi-modal Big Data analytics applications to analyse a more complete emotional profile of user behaviour using data from mixed input channels."
+        tagline: "MixedEmotions developed innovative multilingual multi-modal Big Data analytics applications to analyse a more complete emotional profile of user behaviour using data from mixed input channels. (role:PhD student)"
 
       - title: EuroSentiment
         link: "#"
-        tagline: "The project aimed to develop a large shared data pool for language resources meant to be used by sentiment analysis systems, in order to bundle together scattered resources."
+        tagline: "The project aimed to develop a large shared data pool for language resources meant to be used by sentiment analysis systems, in order to bundle together scattered resources. (role:PhD student)"
 
       - title: LIDER
         link: "#"
-        tagline: "The project’s mission was to provide the basis for the creation of a Linguistic Linked Data cloud that can support content analytics tasks of unstructured multilingual cross-media content."
+        tagline: "The project’s mission was to provide the basis for the creation of a Linguistic Linked Data cloud that can support content analytics tasks of unstructured multilingual cross-media content. (role:PhD student)"
         
       - title: Monnet
         link: "#"
-        tagline: "The Monnet project provided a semantics-based solution for accessing information across language barriers."
+        tagline: "The Monnet project provided a semantics-based solution for accessing information across language barriers. (role:PhD student)"
         
 demos:
     title: Demos
