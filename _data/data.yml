@@ -103,6 +103,7 @@ experiences:
     - role: Invited Talks
 #      time: 2016-
       details: |
+          - Workshop #1 on NER in the Context of MT (CEF Automated Translation) on <i>Knowledge Graphs and NMT</i>. Online.
           - Meet Central Europe (MCE 2018) on <i>The Neural Age of Machine Translation</i>. Budapest, Hungary.
           - Translation Technology Terminology Conference (TTT-2014) on <i>Statistical Machine Translation and Terminology</i>. Bled, Slovenia
           - Translation Technology Terminology Conference (TTT-2013) on <i>Statistical Machine Translation</i>. Zadar, Croatia.
