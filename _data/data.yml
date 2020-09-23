@@ -79,7 +79,7 @@ experiences:
     - role: Co-supervision of PhD and Master Students
       time: 2017-
       details: |
-          - <a href="https://dsi.nuigalway.ie/people/5998349bdc54233060e9b4e4e0d3d3d46a64d277">Nivranshu Pasricha</a> (2019-/PhD/with Paul Buitelaar) on Data2Text Generation
+          - <a href="https://dsi.nuigalway.ie/people/5998349bdc54233060e9b4e4e0d3d3d46a64d277">Nivranshu Pasricha</a> (2019-/PhD/with Paul Buitelaar) on Natural Language Generation from Structured Data
           - <a href="https://dsi.nuigalway.ie/people/1f24b7633cf07059707534f83effafe5f26c86ca">Shardul Suryawanshi</a> (2019-/PhD/with Paul Buitelaar) on Offensive Content Detection
           - <a href="https://dsi.nuigalway.ie/people/bb4f17b35edea725a26cf3e4e62bdd229d6ab978">Rajdeep Sarkar</a> (2019-/PhD/with John P. McCrae) on incorporating Semantic Technologies into Dialogue Systems
           - <a href="https://ie.linkedin.com/in/jennifer-farrell-6bb147b8">Jennifer Farrell</a> (2020/MSc) on Detecting Dementia from Linguistic Characteristics using Natural Language Processing Techniques
@@ -131,15 +131,15 @@ projects:
         tagline: "MixedEmotions developed innovative multilingual multi-modal Big Data analytics applications to analyse a more complete emotional profile of user behaviour using data from mixed input channels. (role: PhD student)"
 
       - title: EuroSentiment
-        link: "#"
+        link: "https://cordis.europa.eu/project/id/296277"
         tagline: "The project aimed to develop a large shared data pool for language resources meant to be used by sentiment analysis systems, in order to bundle together scattered resources. (role: PhD student)"
 
       - title: LIDER
-        link: "#"
+        link: "https://cordis.europa.eu/project/id/610782"
         tagline: "The project’s mission was to provide the basis for the creation of a Linguistic Linked Data cloud that can support content analytics tasks of unstructured multilingual cross-media content. (role: PhD student)"
         
       - title: Monnet
-        link: "#"
+        link: "https://cordis.europa.eu/project/id/248458"
         tagline: "The Monnet project provided a semantics-based solution for accessing information across language barriers. (role: PhD student)"
         
 demos:
