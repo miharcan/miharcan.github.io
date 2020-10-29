@@ -23,6 +23,7 @@ sidebar:
     #bitbucket:
     twitter: '@miharcan'
     gscholar: 'Google Scholar'
+    semscholar: 'Semantic Scholar'
     orcid: ORCID
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
@@ -79,6 +80,7 @@ experiences:
     - role: Co-supervision of PhD and Master Students
       time: 2017-
       details: |
+          - <a href="https://dsi.nuigalway.ie/people/a2f07c8bea017e35bbcb421d4729bbab300a8a25">Dhairya Dalal</a> (2020-/PhD/with Paul Buitelaar) on Causal Reasoning 
           - <a href="https://dsi.nuigalway.ie/people/5998349bdc54233060e9b4e4e0d3d3d46a64d277">Nivranshu Pasricha</a> (2019-/PhD/with Paul Buitelaar) on Natural Language Generation from Structured Data
           - <a href="https://dsi.nuigalway.ie/people/1f24b7633cf07059707534f83effafe5f26c86ca">Shardul Suryawanshi</a> (2019-/PhD/with Paul Buitelaar) on Offensive Content Detection
           - <a href="https://dsi.nuigalway.ie/people/bb4f17b35edea725a26cf3e4e62bdd229d6ab978">Rajdeep Sarkar</a> (2019-/PhD/with John P. McCrae) on incorporating Semantic Technologies into Dialogue Systems
@@ -94,7 +96,7 @@ experiences:
 #      time: 2017-
       details: |
           - Organising Committee ESSLLI 2022
-          - Workshop on Multilingualism at the intersection of Knowledge Bases and Machine Translation (MomenT): <br>@LREC 2018 (<a href="http://lrec-conf.org/workshops/lrec2018/W19/pdf/book_of_proceedings.pdf" target="_blank">proceedings</a>), @MT-Summit 2019 (<a href="https://moment2019.insight-centre.org/wp-content/uploads/2019/08/705d57_6ffdbe9400a34f50b8c30c1c05068f72.pdf" target="_blank">proceedings</a>)
+          - Workshop on Multilingualism at the intersection of Knowledge Bases and Machine Translation (MomenT): <br>@LREC 2018 (<a href="http://lrec-conf.org/workshops/lrec2018/W19/pdf/book_of_proceedings.pdf" target="_blank">proceedings</a>), @MT-Summit 2019 (<a href="https://fc233576-d4db-4de9-b637-e339437e9442.filesusr.com/ugd/705d57_6ffdbe9400a34f50b8c30c1c05068f72.pdf" target="_blank">proceedings</a>)
           - Local organiser of Language, Data and Knowledge (LDK) 2017, Galway, Ireland
           - Local organiser ESSLLI 2011
     - role: Program Committee
@@ -186,7 +188,6 @@ datas:
         tagline: "annotated corpora for the evaluation of monolingual and bilingual domain-specific term extraction (with HLT FBK)."
 
       - title: PE²rr
-        #link: "https://nuig.insight-centre.org/unlp/research/resources/pe2rr/"
         link: "https://www.clarin.si/repository/xmlui/handle/11356/1065"
         tagline: "PostEdited and ERRor annotated corpus covers machine translations, their post-edited versions and error annotations of the performed edit-operations."
         

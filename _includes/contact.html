@@ -55,6 +55,12 @@
     </li>
     {% endif %}
     
+    {% if sidebar.semscholar %}
+    <li class="semscholar"><i class="fa fa-graduation-cap"></i>
+      &nbsp;<a href="https://www.semanticscholar.org/author/Mihael-Arcan/1951431" target="_blank">{{ sidebar.semscholar }}</a>
+    </li>
+    {% endif %}
+    
     {% if sidebar.orcid %}
     <li class="orcid"><i class="fa fa-graduation-cap"></i>
       &nbsp;<a href="http://orcid.org/0000-0002-3116-621X" target="_blank">{{ sidebar.orcid }}</a>
