@@ -61,6 +61,18 @@
     </li>
     {% endif %}
     
+    {% if sidebar.acl_ant %}
+    <li class="acl_ant"><i class="fa fa-graduation-cap"></i>
+      &nbsp;<a href="https://www.aclweb.org/anthology/people/mihael-arcan" target="_blank">{{ sidebar.acl_ant }}</a>
+    </li>
+    {% endif %}
+    
+    {% if sidebar.bdlp %}
+    <li class="bdlp"><i class="fa fa-graduation-cap"></i>
+      &nbsp;<a href="https://dblp.org/pid/24/10894.html" target="_blank">{{ sidebar.bdlp }}</a>
+    </li>
+    {% endif %}
+    
     {% if sidebar.orcid %}
     <li class="orcid"><i class="fa fa-graduation-cap"></i>
       &nbsp;<a href="http://orcid.org/0000-0002-3116-621X" target="_blank">{{ sidebar.orcid }}</a>
