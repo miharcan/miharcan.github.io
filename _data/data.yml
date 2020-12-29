@@ -25,7 +25,7 @@ sidebar:
     gscholar: 'Google Scholar'
     semscholar: 'Semantic Scholar'
     acl_ant: 'ACL Anthology'
-    bdlp: 'BDLP'
+    dblp: 'dblp'
     orcid: ORCID
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
