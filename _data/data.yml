@@ -119,13 +119,17 @@ projects:
     intro: >
 #      
     assignments:
+      - title: DANTE Project
+        link: "#hook"
+        tagline: "The project focuses on terminology identification in the pharmaceutical domain and the creation of multilingual terminological resources using neural machine translation approaches. (role: PI, 2021-)"
+        
       - title: Huawei Project
         link: "#hook"
-        tagline: "The project focused on on Knowledge Graphs for Intent Classification in Goal-Oriented Dialog Systems. (role: Project Management; Scientific Lead: Paul Buitelaar/John McCrae)"
+        tagline: "The project focuses on Knowledge Graphs for Intent Classification in Goal-Oriented Dialog Systems. (role: Project Management; Scientific Leads/PIs: Paul Buitelaar/John McCrae, 2020-)"
         
       - title: NURS
         link: "#hook"
-        tagline: "The project focused on neural machine translation (NMT) for under-resourced scenarios, i.e. languages or technical domains, using sequence-to-sequence models. (role: PI)"
+        tagline: "The project focused on neural machine translation (NMT) for under-resourced scenarios, i.e. languages or technical domains, using sequence-to-sequence models. (role: PI, 2018-2019)"
 
 #      - title: ELEXIS
 #        link: "https://elex.is/"
@@ -133,19 +137,19 @@ projects:
 
       - title: MixedEmotions
         link: "http://mixedemotions.insight-centre.org/"
-        tagline: "MixedEmotions developed innovative multilingual multi-modal Big Data analytics applications to analyse a more complete emotional profile of user behaviour using data from mixed input channels. (role: PhD student)"
-
-      - title: EuroSentiment
-        link: "https://cordis.europa.eu/project/id/296277"
-        tagline: "The project aimed to develop a large shared data pool for language resources meant to be used by sentiment analysis systems, in order to bundle together scattered resources. (role: PhD student)"
+        tagline: "MixedEmotions developed innovative multilingual multi-modal Big Data analytics applications to analyse a more complete emotional profile of user behaviour using data from mixed input channels. (role: PhD student, 2015-2017)"
 
       - title: LIDER
         link: "https://cordis.europa.eu/project/id/610782"
-        tagline: "The project’s mission was to provide the basis for the creation of a Linguistic Linked Data cloud that can support content analytics tasks of unstructured multilingual cross-media content. (role: PhD student)"
+        tagline: "The project’s mission was to provide the basis for the creation of a Linguistic Linked Data cloud that can support content analytics tasks of unstructured multilingual cross-media content. (role: PhD student, 2013-2015)"
+        
+      - title: EuroSentiment
+        link: "https://cordis.europa.eu/project/id/296277"
+        tagline: "The project aimed to develop a large shared data pool for language resources meant to be used by sentiment analysis systems, in order to bundle together scattered resources. (role: PhD student, 2012-2014)"
         
       - title: Monnet
         link: "https://cordis.europa.eu/project/id/248458"
-        tagline: "The Monnet project provided a semantics-based solution for accessing information across language barriers. (role: PhD student)"
+        tagline: "The Monnet project provided a semantics-based solution for accessing information across language barriers. (role: PhD student, 2011-2013)"
         
 demos:
     title: Demos
