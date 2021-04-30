@@ -105,51 +105,51 @@ experiences:
 #      time: 2016-
       details: |
           - Guest Editor of the Special Issue on <a href="https://www.mdpi.com/journal/information/special_issues/frontiers_machine_translation">Frontiers in Machine Translation</a>, (<a href="https://www.mdpi.com/journal/information">Information</a> Journal), with <a href="https://research.tilburguniversity.edu/en/persons/eva-vanmassenhove">Eva Vanmassenhove</a> and <a href="https://research.tilburguniversity.edu/en/persons/dimitar-shterionov">Dimitar Shterionov</a>.
-          - Member of program committee for different conferences and workshops, including ACL, EMNLP, LREC, ECAI, EAMT, MT-SUMMIT, WMT, ISWC, ESWC.
+          - Member of program committee for different conferences and workshops in the area of NLP and semantic web, including ACL, EMNLP, LREC, ECAI, EAMT, MT-SUMMIT, WMT, ISWC, ESWC.
     - role: Invited Talks
 #      time: 2016-
       details: |
-          - Workshop #1 on NER in the Context of MT (CEF Automated Translation) on <i>Knowledge Graphs and NMT</i>. Online.
-          - Meet Central Europe (MCE 2018) on <i>The Neural Age of Machine Translation</i>. Budapest, Hungary.
-          - Translation Technology Terminology Conference (TTT-2014) on <i>Statistical Machine Translation and Terminology</i>. Bled, Slovenia
-          - Translation Technology Terminology Conference (TTT-2013) on <i>Statistical Machine Translation</i>. Zadar, Croatia.
+          - Workshop #1 on NER in the Context of MT (CEF Automated Translation) on <i>Knowledge Graphs and NMT</i>. 2020. Online.
+          - Meet Central Europe (MCE 2018) on <i>The Neural Age of Machine Translation</i>. 2018. Budapest, Hungary.
+          - Translation Technology Terminology Conference (TTT-2014) on <i>Statistical Machine Translation and Terminology</i>. 2014. Bled, Slovenia
+          - Translation Technology Terminology Conference (TTT-2013) on <i>Statistical Machine Translation</i>. 2013. Zadar, Croatia.
 
 projects:
     title: Projects
     intro: >
 #      
     assignments:
-      - title: DANTE Project
+      - title: Passive Prediction
         link: "#hook"
-        tagline: "The project focuses on terminology identification in the pharmaceutical domain and the creation of multilingual terminological resources using neural machine translation approaches. (role: PI, 2021-)"
+        tagline: "The project focuses on combining proven psychological diagnostic methods with AI. Passive Prediction is a privacy-aware mental health diagnostic sensor that analyses our written forms of expression to catch early indicators of mental health issues (Funder: Enterprise Ireland; role: PI, 2021-)"
+        
+      - title: DANTE Project 
+        link: "#hook"
+        tagline: "The project focuses on terminology identification in the pharmaceutical domain and the creation of multilingual terminological resources using neural machine translation approaches. (Funder: Industry Partner/Science Foundation Ireland; role: PI, 2021-)" 
         
       - title: Huawei Project
         link: "#hook"
-        tagline: "The project focuses on Knowledge Graphs for Intent Classification in Goal-Oriented Dialog Systems. (role: Project Management; Scientific Leads/PIs: Paul Buitelaar/John McCrae, 2020-)"
+        tagline: "The project focuses on Knowledge Graphs for Intent Classification in Goal-Oriented Dialog Systems. (Funder: Industry Partner/Science Foundation Ireland; role: Project Management; Scientific Leads/PIs: Paul Buitelaar/John McCrae, 2020-)"
         
       - title: NURS
         link: "#hook"
-        tagline: "The project focused on neural machine translation (NMT) for under-resourced scenarios, i.e. languages or technical domains, using sequence-to-sequence models. (role: PI, 2018-2019)"
-
-#      - title: ELEXIS
-#        link: "https://elex.is/"
-#        tagline: "The ELEXIS project benefits from the expertise of some of the top experts in the fields of lexicography, linguistics and natural language processing, who agreed to share their experience and contribute their efforts to the success of the project."
+        tagline: "The project focused on neural machine translation (NMT) for under-resourced scenarios, i.e. languages or technical domains, using sequence-to-sequence models (Funder: Industry Partner/Science Foundation Ireland; role: PI, 2018-2019)"
 
       - title: MixedEmotions
         link: "http://mixedemotions.insight-centre.org/"
-        tagline: "MixedEmotions developed innovative multilingual multi-modal Big Data analytics applications to analyse a more complete emotional profile of user behaviour using data from mixed input channels. (role: PhD student, 2015-2017)"
+        tagline: "The developed innovative multilingual multi-modal Big Data analytics applications (Funder: EU FP7; role: PhD student, 2015-2017)"
 
       - title: LIDER
         link: "https://cordis.europa.eu/project/id/610782"
-        tagline: "The project’s mission was to provide the basis for the creation of a Linguistic Linked Data cloud that can support content analytics tasks of unstructured multilingual cross-media content. (role: PhD student, 2013-2015)"
+        tagline: "The project aimed to provide the basis of a Linguistic Linked Data cloud for content analytics tasks (Funder: EU FP7; role: PhD student, 2013-2015)"
         
       - title: EuroSentiment
         link: "https://cordis.europa.eu/project/id/296277"
-        tagline: "The project aimed to develop a large shared data pool for language resources meant to be used by sentiment analysis systems, in order to bundle together scattered resources. (role: PhD student, 2012-2014)"
+        tagline: "The project aimed to develop a shared data pool for multilingual sentiment analysis systems (Funder: EU FP7; role: PhD student, 2012-2014)"
         
       - title: Monnet
         link: "https://cordis.europa.eu/project/id/248458"
-        tagline: "The Monnet project provided a semantics-based solution for accessing information across language barriers. (role: PhD student, 2011-2013)"
+        tagline: "The project provided a semantics-based solution for accessing information across language barriers (Funder: EU FP7; role: PhD student, 2011-2013)"
         
 demos:
     title: Demos
