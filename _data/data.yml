@@ -82,6 +82,7 @@ experiences:
     - role: Co-supervision of PhD and Master Students
       time: 2017-
       details: |
+          - <a href="">Ali Hatami</a> (2021-/PhD/with Paul Buitelaar) on Multi-Modal (Speech/Video) Machine Translation 
           - <a href="https://www.nuigalway.ie/science-engineering/staff-profiles/ddalal1/">Dhairya Dalal</a> (2020-/PhD/with Paul Buitelaar) on Causal Reasoning 
           - <a href="https://www.nuigalway.ie/science-engineering/staff-profiles/npasricha1/">Nivranshu Pasricha</a> (2019-/PhD/with Paul Buitelaar) on Natural Language Generation from Structured Data
           - <a href="https://www.nuigalway.ie/our-research/people/engineering-and-informatics/shardulsuryawanshi/">Shardul Suryawanshi</a> (2019-/PhD/with Paul Buitelaar) on Offensive Content Detection
@@ -137,7 +138,7 @@ projects:
 
       - title: MixedEmotions
         link: "http://mixedemotions.insight-centre.org/"
-        tagline: "The developed innovative multilingual multi-modal Big Data analytics applications (Funder: EU FP7; role: PhD student, 2015-2017)"
+        tagline: "The project aimed to develop innovative multilingual multi-modal Big Data analytics applications (Funder: EU FP7; role: PhD student, 2015-2017)"
 
       - title: LIDER
         link: "https://cordis.europa.eu/project/id/610782"
