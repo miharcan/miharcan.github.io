@@ -124,12 +124,12 @@ projects:
       - title: Passive Prediction
         link: "https://passiveprediction.ie/"
         tagline: "The project focuses on combining proven psychological diagnostic methods with AI. Passive Prediction is a privacy-aware mental health diagnostic sensor that analyses our written forms of expression to catch early indicators of mental health issues (Funder: Enterprise Ireland; role: PI, 2021-)"
-      
+        
       - title: Huawei Project
         link: "#hook"
         tagline: "The project focuses on Knowledge Graphs for Intent Classification in Goal-Oriented Dialog Systems. (Funder: Industry Partner/Science Foundation Ireland; role: Project Management; Scientific Leads/PIs: Paul Buitelaar/John McCrae, 2020-)"
         
-        - title: DANTE Project 
+      - title: DANTE Project 
         link: "#hook"
         tagline: "The project focuses on terminology identification in the pharmaceutical domain and the creation of multilingual terminological resources using neural machine translation approaches. (Funder: Industry Partner/Science Foundation Ireland; role: PI, 2021-2021)" 
         
@@ -207,6 +207,9 @@ publications:
     title: Publications
     intro: |
       Please visit my <a href="https://scholar.google.com/citations?user=iI8CT3EAAAAJ&hl=en">Google scholar page</a> <a href="https://raw.githubusercontent.com/miharcan/miharcan.github.io/master/files/publications.bib" target="_blank"> (BibTex).</a>
+    papers:
+      
+
 
 footer: >
 # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
