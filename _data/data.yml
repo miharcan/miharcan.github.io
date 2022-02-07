@@ -124,14 +124,14 @@ projects:
       - title: Passive Prediction
         link: "https://passiveprediction.ie/"
         tagline: "The project focuses on combining proven psychological diagnostic methods with AI. Passive Prediction is a privacy-aware mental health diagnostic sensor that analyses our written forms of expression to catch early indicators of mental health issues (Funder: Enterprise Ireland; role: PI, 2021-)"
-        
-      - title: DANTE Project 
-        link: "#hook"
-        tagline: "The project focuses on terminology identification in the pharmaceutical domain and the creation of multilingual terminological resources using neural machine translation approaches. (Funder: Industry Partner/Science Foundation Ireland; role: PI, 2021-)" 
-        
+      
       - title: Huawei Project
         link: "#hook"
         tagline: "The project focuses on Knowledge Graphs for Intent Classification in Goal-Oriented Dialog Systems. (Funder: Industry Partner/Science Foundation Ireland; role: Project Management; Scientific Leads/PIs: Paul Buitelaar/John McCrae, 2020-)"
+        
+        - title: DANTE Project 
+        link: "#hook"
+        tagline: "The project focuses on terminology identification in the pharmaceutical domain and the creation of multilingual terminological resources using neural machine translation approaches. (Funder: Industry Partner/Science Foundation Ireland; role: PI, 2021-2021)" 
         
       - title: NURS
         link: "#hook"
@@ -206,28 +206,7 @@ datas:
 publications:
     title: Publications
     intro: |
-      Selected publications, please also visit my <a href="https://scholar.google.com/citations?user=iI8CT3EAAAAJ&hl=en">Google scholar page</a> <a href="https://raw.githubusercontent.com/miharcan/miharcan.github.io/master/files/publications.bib" target="_blank"> (BibTex).</a>
-    papers:
-      - title: Enhancing statistical machine translation with bilingual terminology in a CAT environment
-        link: "https://www.researchgate.net/profile/Mihael_Arcan/publication/265367296_Enhancing_Statistical_Machine_Translation_with_Bilingual_Terminology_in_a_CAT_Environment/links/5409be260cf2df04e7484d15/Enhancing-Statistical-Machine-Translation-with-Bilingual-Terminology-in-a-CAT-Environment.pdf"
-        authors: Mihael Arcan, Marco Turchi, Sara Tonelli, Paul Buitelaar
-        conference: Proceedings of the 11th Biennial Conference of the Association for Machine Translation in the Americas (AMTA 2014)
-
-      - title: "Knowledge Portability with Semantic Expansion of Ontology Labels"
-        link: "https://www.aclweb.org/anthology/P15-1069.pdf"
-        authors: Mihael Arcan, Marco Turchi, Paul Buitelaar
-        conference: "Proceedings of the Association for Computational Linguistics (ACL-2015)"
-
-      - title: Expanding wordnets to new languages with multilingual sense disambiguation
-        link: "https://www.aclweb.org/anthology/C16-1010.pdf"
-        authors: Mihael Arcan, John P McCrae, Paul Buitelaar
-        conference: "International Conference on Computational Linguistics (COLING-2016)"
-        
-      - title: Leveraging bilingual terminology to improve machine translation in a CAT environment
-        link: "https://cris.fbk.eu/retrieve/handle/11582/310787/18835/nleguide.pdf"
-        authors: Mihael Arcan, Marco Turchi, Sara Tonelli, Paul Buitelaar
-        conference: "Natural Language Engineering 23(5)"
-
+      Please visit my <a href="https://scholar.google.com/citations?user=iI8CT3EAAAAJ&hl=en">Google scholar page</a> <a href="https://raw.githubusercontent.com/miharcan/miharcan.github.io/master/files/publications.bib" target="_blank"> (BibTex).</a>
 
 footer: >
 # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
