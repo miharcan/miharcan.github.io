@@ -8,15 +8,15 @@ sidebar:
 
     # Profile information
     name: Mihael Arcan
-    tagline: Research Fellow <br> @ <a href="https://dsi.nuigalway.ie/" target="_blank">Data Science Institute</a>, <br> <a href="http://www.nuigalway.ie/" target="_blank">NUI Galway</b>
+    tagline: Research Fellow <br> @ <a href="https://dsi.universityofgalway.ie/" target="_blank">Data Science Institute</a>, <br> <a href="http://www.universityofgalway.ie/" target="_blank">University of Galway</b>
     avatar: DSC_0385_square.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: mihael.arcan@nuigalway.ie
+    email: mihael.arcan@universityofgalway.ie
     #phone: 012 345 6789
     website1: Insight profile #do not add http://
     #website2: DSI profile #do not add http://
-    website3: NUI Galway profile #do not add http://
+    website3: University of Galway profile #do not add http://
     linkedin: LinkedIn
     github: miharcan
     #gitlab:
@@ -52,13 +52,13 @@ sidebar:
 
 career-profile:
     title: Academic Profile
-    summary:  <p align="justify">I am a research fellow at the <a href="https://dsi.nuigalway.ie/" target="_blank">Data Science Institute (DSI)</a> and Adjunct Lecturer at the <a href="http://www.cs.nuigalway.ie/" target="_blank">School of Computer Science</a> at the <a href="http://www.nuigalway.ie/" target="_blank">National University of Ireland Galway (NUI Galway)</a>. I am working in the <a href="https://dsi.nuigalway.ie/units/unlp" target="_blank">Unit for Natural Language Processing (UNLP)</a> under the supervision of Dr <a href="http://paulbuitelaar.net/#/" target="_blank">Paul Buitelaar</a>, where my main research topic focuses on terminology and knowledge graph injection into neural machine translation architecture. Recently, I am also following the work on dialogue systems and natural language generation with multi-modal data. I am primarily funded by the nationwide <a href="https://www.insight-centre.org/" target="_blank">Insight SFI Research Centre for Data Analytics</a>, which is also hosted within DSI. </p> <p style="margin-left:10px"><b>Interests</b>:&nbsp;&bull;&nbsp;Natural Language Processing&nbsp;&bull;&nbsp;Machine Translation&nbsp;&bull;&nbsp;Dialogue Systems&nbsp;&bull;&nbsp;Knowledge Graphs </p>
+    summary:  <p align="justify">I am a research fellow at the <a href="https://dsi.universityofgalway.ie/" target="_blank">Data Science Institute (DSI)</a> and Adjunct Lecturer at the <a href="http://www.cs.nuigalway.ie/" target="_blank">School of Computer Science</a> at the <a href="http://www.universityofgalway.ie/" target="_blank">University of Galway</a>. I am working in the <a href="https://dsi.universityofgalway.ie/units/unlp" target="_blank">Unit for Natural Language Processing (UNLP)</a> under the supervision of Dr <a href="http://paulbuitelaar.net/#/" target="_blank">Paul Buitelaar</a>, where my main research topic focuses on terminology and knowledge graph injection into neural machine translation architecture. Recently, I am also following the work on dialogue systems and natural language generation with multi-modal data. I am primarily funded by the nationwide <a href="https://www.insight-centre.org/" target="_blank">Insight SFI Research Centre for Data Analytics</a>, which is also hosted within DSI. </p> <p style="margin-left:10px"><b>Interests</b>:&nbsp;&bull;&nbsp;Natural Language Processing&nbsp;&bull;&nbsp;Machine Translation&nbsp;&bull;&nbsp;Dialogue Systems&nbsp;&bull;&nbsp;Knowledge Graphs </p>
  
      
 
 education:
     - degree: PhD in Computer Science
-      university: National University Of Ireland Galway
+      university: University Of Galway
       time: 2011 - 2017
 #      details: |
 #        Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -82,18 +82,19 @@ experiences:
     - role: Co-supervision of PhD and Master Students
       time: 2017-
       details: |
+          - <a href="">Tunde Ajayi</a> (2022-/PhD/with Paul Buitelaar) on Empathetic Dialogue Systems 
           - <a href="">Ali Hatami</a> (2021-/PhD/with Paul Buitelaar) on Multi-Modal (Speech/Video) Machine Translation 
-          - <a href="https://www.nuigalway.ie/science-engineering/staff-profiles/ddalal1/">Dhairya Dalal</a> (2020-/PhD/with Paul Buitelaar) on Causal Reasoning 
-          - <a href="https://www.nuigalway.ie/science-engineering/staff-profiles/npasricha1/">Nivranshu Pasricha</a> (2019-/PhD/with Paul Buitelaar) on Natural Language Generation from Structured Data
-          - <a href="https://www.nuigalway.ie/our-research/people/engineering-and-informatics/shardulsuryawanshi/">Shardul Suryawanshi</a> (2019-/PhD/with Paul Buitelaar) on Offensive Content Detection
-          - <a href="https://www.nuigalway.ie/science-engineering/staff-profiles/rsarkar1/">Rajdeep Sarkar</a> (2019-/PhD/with John P. McCrae) on incorporating Semantic Technologies into Dialogue Systems
+          - <a href="https://www.universityofgalway.ie/science-engineering/staff-profiles/ddalal1/">Dhairya Dalal</a> (2020-/PhD/with Paul Buitelaar) on Causal Reasoning 
+          - <a href="https://www.universityofgalway.ie/science-engineering/staff-profiles/npasricha1/">Nivranshu Pasricha</a> (2019-/PhD/with Paul Buitelaar) on Natural Language Generation from Structured Data
+          - <a href="https://www.universityofgalway.ie/our-research/people/engineering-and-informatics/shardulsuryawanshi/">Shardul Suryawanshi</a> (2019-/PhD/with Paul Buitelaar) on Offensive Content Detection
+          - <a href="https://www.universityofgalway.ie/science-engineering/staff-profiles/rsarkar1/">Rajdeep Sarkar</a> (2019-/PhD/with John P. McCrae) on incorporating Semantic Technologies into Dialogue Systems
           - <a href="https://ie.linkedin.com/in/jennifer-farrell-6bb147b8">Jennifer Farrell</a> (2020/MSc) on Detecting Dementia from Linguistic Characteristics using Natural Language Processing Techniques
-          - <a href="https://www.nuigalway.ie/science-engineering/staff-profiles/basokachakravarthi1/">Bharathi Raja Asoka Chakravarthi</a> (2016-2020/PhD/with John P. McCrae) on Machine Translation for Under-Resourced Languages
+          - <a href="https://www.universityofgalway.ie/science-engineering/staff-profiles/basokachakravarthi1/">Bharathi Raja Asoka Chakravarthi</a> (2016-2020/PhD/with John P. McCrae) on Machine Translation for Under-Resourced Languages
           - <a href="http://www.fionn.xyz/#about-me">Fionn Delahunty</a> (2019/MSc/with Robert Johansson) on Passive Diagnosis of Mental Health Disorders
-    - role: Teaching - as part of the MSc in Computer Science @NUI Galway - <a href="https://www.nuigalway.ie/courses/taught-postgraduate-courses/msc-in-computer-science-data-analytics.html">Data Analytics</a> and <a href="https://www.nuigalway.ie/courses/taught-postgraduate-courses/computer-science-artificial-intelligence.html">AI</a>.
+    - role: Teaching - as part of the MSc in Computer Science @ University of Galway - <a href="https://www.nuigalway.ie/courses/taught-postgraduate-courses/msc-in-computer-science-data-analytics.html">Data Analytics</a> and <a href="https://www.universityofgalway.ie/courses/taught-postgraduate-courses/computer-science-artificial-intelligence.html">AI</a>.
       time: 2016-
       details: |
-          - Advanced Natural Language Processing (2018/2019 - )
+          - Advanced Natural Language Processing (2018/2019-2021/2022)
           - Introduction to Natural Language Processing (2016/2017, 2017/2018)
     - role: Event Organisation
 #      time: 2017-
@@ -127,7 +128,7 @@ projects:
         
       - title: Huawei Project
         link: "#hook"
-        tagline: "The project focuses on Knowledge Graphs for Intent Classification in Goal-Oriented Dialog Systems. (Funder: Industry Partner/Science Foundation Ireland; role: Project Management; Scientific Leads/PIs: Paul Buitelaar/John McCrae, 2020-)"
+        tagline: "The project focuses on Knowledge Graphs for Intent Classification in Goal-Oriented Dialog Systems. (Funder: Industry Partner/Science Foundation Ireland; role: Project Management; Scientific Leads/PIs: Paul Buitelaar/John McCrae, 2020-2022)"
         
       - title: DANTE Project 
         link: "#hook"
