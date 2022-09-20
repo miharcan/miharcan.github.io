@@ -12,7 +12,7 @@ sidebar:
     avatar: DSC_0385_square.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: mihael.arcan@universityofgalway.ie
+    email: mihael.arcan@insight-centre.org
     #phone: 012 345 6789
     website1: Insight profile #do not add http://
     #website2: DSI profile #do not add http://
@@ -82,17 +82,17 @@ experiences:
     - role: Co-supervision of PhD and Master Students
       time: 2017-
       details: |
-          - <a href="">Tunde Ajayi</a> (2022-/PhD/with Paul Buitelaar) on Empathetic Dialogue Systems 
-          - <a href="">Ali Hatami</a> (2021-/PhD/with Paul Buitelaar) on Multi-Modal (Speech/Video) Machine Translation 
-          - <a href="https://www.universityofgalway.ie/science-engineering/staff-profiles/ddalal1/">Dhairya Dalal</a> (2020-/PhD/with Paul Buitelaar) on Causal Reasoning 
-          - <a href="https://www.universityofgalway.ie/science-engineering/staff-profiles/npasricha1/">Nivranshu Pasricha</a> (2019-/PhD/with Paul Buitelaar) on Natural Language Generation from Structured Data
-          - <a href="https://www.universityofgalway.ie/our-research/people/engineering-and-informatics/shardulsuryawanshi/">Shardul Suryawanshi</a> (2019-/PhD/with Paul Buitelaar) on Offensive Content Detection
-          - <a href="https://www.universityofgalway.ie/science-engineering/staff-profiles/rsarkar1/">Rajdeep Sarkar</a> (2019-/PhD/with John P. McCrae) on incorporating Semantic Technologies into Dialogue Systems
+          - <a href="https://tundeajayi.github.io/">Tunde Ajayi</a> (2022-/PhD/with Paul Buitelaar) on Empathetic Dialogue Systems 
+          - <a href="https://www.linkedin.com/in/alihat/?originalSubdomain=uk">Ali Hatami</a> (2021-/PhD/with Paul Buitelaar) on Multi-Modal (Speech/Video) Machine Translation 
+          - <a href="https://www.linkedin.com/in/dhairyadalal/">Dhairya Dalal</a> (2020-/PhD/with Paul Buitelaar) on Causal Reasoning 
+          - <a href="https://www.universityofgalway.ie/our-research/people/engineering-and-informatics/npasricha1/">Nivranshu Pasricha</a> (2019-/PhD/with Paul Buitelaar) on Natural Language Generation from Structured Data
+          - <a href="https://ie.linkedin.com/in/shardul-suryawanshi-phd-nlp">Shardul Suryawanshi</a> (2019-/PhD/with Paul Buitelaar) on Offensive Content Detection
+          - <a href="https://www.linkedin.com/in/rajdeep-sarkar-609a8284/?originalSubdomain=ie">Rajdeep Sarkar</a> (2019-/PhD/with John P. McCrae) on incorporating Semantic Technologies into Dialogue Systems
           - <a href="https://ie.linkedin.com/in/jennifer-farrell-6bb147b8">Jennifer Farrell</a> (2020/MSc) on Detecting Dementia from Linguistic Characteristics using Natural Language Processing Techniques
-          - <a href="https://www.universityofgalway.ie/science-engineering/staff-profiles/basokachakravarthi1/">Bharathi Raja Asoka Chakravarthi</a> (2016-2020/PhD/with John P. McCrae) on Machine Translation for Under-Resourced Languages
+          - <a href="https://bharathichezhiyan.github.io/bharathiraja/">Bharathi Raja Asoka Chakravarthi</a> (2016-2020/PhD/with John P. McCrae) on Machine Translation for Under-Resourced Languages
           - <a href="http://www.fionn.xyz/#about-me">Fionn Delahunty</a> (2019/MSc/with Robert Johansson) on Passive Diagnosis of Mental Health Disorders
     - role: Teaching - as part of the MSc in Computer Science @ University of Galway - <a href="https://www.universityofgalway.ie/courses/taught-postgraduate-courses/msc-in-computer-science-data-analytics.html">Data Analytics</a> and <a href="https://www.universityofgalway.ie/courses/taught-postgraduate-courses/computer-science-artificial-intelligence.html">AI</a>.
-      time: 2016-
+      time: 2016-2022
       details: |
           - Advanced Natural Language Processing (2018/2019-2021/2022)
           - Introduction to Natural Language Processing (2016/2017, 2017/2018)
