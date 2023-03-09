@@ -138,21 +138,21 @@ projects:
         link: "#hook"
         tagline: "The project focused on neural machine translation (NMT) for under-resourced scenarios, i.e. languages or technical domains, using sequence-to-sequence models (Funder: Industry Partner/Science Foundation Ireland; role: PI, 2018-2019)"
 
-      - title: MixedEmotions
-        link: "http://mixedemotions.insight-centre.org/"
-        tagline: "The project aimed to develop innovative multilingual multi-modal Big Data analytics applications (Funder: EU FP7; role: PhD student, 2015-2017)"
+#      - title: MixedEmotions
+#        link: "http://mixedemotions.insight-centre.org/"
+#        tagline: "The project aimed to develop innovative multilingual multi-modal Big Data analytics applications (Funder: EU FP7; role: PhD student, 2015-2017)"
 
-      - title: LIDER
-        link: "https://cordis.europa.eu/project/id/610782"
-        tagline: "The project aimed to provide the basis of a Linguistic Linked Data cloud for content analytics tasks (Funder: EU FP7; role: PhD student, 2013-2015)"
+#      - title: LIDER
+#        link: "https://cordis.europa.eu/project/id/610782"
+#        tagline: "The project aimed to provide the basis of a Linguistic Linked Data cloud for content analytics tasks (Funder: EU FP7; role: PhD student, 2013-2015)"
         
-      - title: EuroSentiment
-        link: "https://cordis.europa.eu/project/id/296277"
-        tagline: "The project aimed to develop a shared data pool for multilingual sentiment analysis systems (Funder: EU FP7; role: PhD student, 2012-2014)"
+#      - title: EuroSentiment
+#        link: "https://cordis.europa.eu/project/id/296277"
+#        tagline: "The project aimed to develop a shared data pool for multilingual sentiment analysis systems (Funder: EU FP7; role: PhD student, 2012-2014)"
         
-      - title: Monnet
-        link: "https://cordis.europa.eu/project/id/248458"
-        tagline: "The project provided a semantics-based solution for accessing information across language barriers (Funder: EU FP7; role: PhD student, 2011-2013)"
+#      - title: Monnet
+#        link: "https://cordis.europa.eu/project/id/248458"
+#        tagline: "The project provided a semantics-based solution for accessing information across language barriers (Funder: EU FP7; role: PhD student, 2011-2013)"
         
 demos:
     title: Demos
