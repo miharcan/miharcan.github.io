@@ -123,7 +123,7 @@ projects:
 #      
     assignments:
       - title: Passive Prediction
-        link: "#hook"
+        link: ""
         tagline: "The project focuses on combining proven psychological diagnostic methods with AI. Passive Prediction is a privacy-aware mental health diagnostic sensor that analyses our written forms of expression to catch early indicators of mental health issues (Funder: Enterprise Ireland; role: PI, 2021-)"
         
       - title: Huawei Project
