@@ -8,40 +8,29 @@ sidebar:
 
     # Profile information
     name: Mihael Arcan
-    tagline: Co-Founder of <a href="https://luahealth.io" target="_blank">Lua Health</a> <br> <br> Research Fellow <br> @ <a href="https://dsi.universityofgalway.ie/" target="_blank">Data Science Institute</a>, <br> <a href="http://www.universityofgalway.ie/" target="_blank">University of Galway</b>
-    avatar: DSC_0385_square.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Co-Founder of <a href="https://luahealth.io" target="_blank">Lua Health</a>
+    avatar: SON4609-133_100_100.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: mihael.arcan@insight-centre.org
+    email: mihael@luahealth.io
     #phone: 012 345 6789
-    website1: Insight profile #do not add http://
+    #website1: something #do not add http://
     #website2: DSI profile #do not add http://
-    website3: University of Galway profile #do not add http://
+    #website3: University of Galway profile #do not add http://
     linkedin: LinkedIn
-    github: miharcan
+    #github: miharcan
     #gitlab:
     #bitbucket:
-    twitter: '@miharcan'
-    gscholar: 'Google Scholar'
-    semscholar: 'Semantic Scholar'
-    acl_ant: 'ACL Anthology'
-    dblp: 'dblp'
-    orcid: ORCID
+    #twitter: '@miharcan'
+    #gscholar: 'Google Scholar'
+    #semscholar: 'Semantic Scholar'
+    #acl_ant: 'ACL Anthology'
+    #dblp: 'dblp'
+    #orcid: ORCID
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
     location: Galway, Ireland
-    
-
-    languages:
-      - idiom: Slovene
-        level: Native
-        
-      - idiom: German
-        level: Native
-
-      - idiom: English
-        level: Professional
 
     interests:
       - item: Kayaking
@@ -52,12 +41,8 @@ sidebar:
 
 career-profile:
     title: Profile
-    summary:  <p align="justify">I am one of the co-founders of  <a href="https://luahealth.io/" target="_blank">Lua Health</a>, a pioneering startup dedicated to enhancing mental well-being in the corporate realm. Lua Health specializes in discreetly and precisely identifying workplace-related wellness issues, offering a clear path towards early intervention. We firmly believe that the future of well-being lies in prevention and early detection, ensuring individuals receive the assistance they need when it matters most. Through our innovative SaaS-based solution, we empower businesses to provide timely and tailored support to their employees. As a spinoff from the University of Galway, our technology is rooted in decades of research in psycholinguistics.</p> 
+    summary:  <p align="justify">I am proud to be one of the co-founders of <a href="https://www.luahealth.io/">Lua Health</a>, a pioneering startup dedicated to enhancing mental well-being in the corporate realm. Lua Health specialises in discreetly and precisely identifying workplace-related wellness issues, offering a clear path towards early intervention. We firmly believe that the future of well-being lies in prevention and early detection, ensuring individuals receive the assistance they need when it matters most. Through our innovative SaaS-based solution, we empower businesses to provide timely and tailored support to their employees. Lua Health is a spinoff from the <a href="https://www.universityofgalway.ie/">University of Galway</a>, drawing from decades of research in psycholinguistics. <br> <br> Prior to Lua, I held the role of a research fellow at the <a href="https://www.universityofgalway.ie/dsi/">Data Science Institute</a> (DSI), which is part of the University of Galway. There, I was an active member of the <a href="https://universityofgalway.ie/dsi/nlp_unit/">Unit for Natural Language Processing </a> (UNLP) led by <a href="https://www.universityofgalway.ie/our-research/people/computer-science/paulbuitelaar/">Paul Buitelaar</a>, focusing primarily on integrating terminology and knowledge graphs into neural machine translation architectures, alongside working on dialogue systems and natural language generation within the context of multi-modal data.</p> 
     
-
-    
-    
-     <p align="justify">I hold the role of a research fellow at the <a href="https://dsi.universityofgalway.ie/" target="_blank">Data Science Institute (DSI)</a>, which is part of the <a href="http://www.universityofgalway.ie/" target="_blank">University of Galway</a>. Within the institute, I am an active member of the <a href="https://www.universityofgalway.ie/dsi/nlp_unit/" target="_blank">Unit for Natural Language Processing (UNLP)</a>, led by <a href="https://www.universityofgalway.ie/our-research/people/engineering-and-informatics/paulbuitelaar/" target="_blank">Paul Buitelaar</a>. My primary research centres on the integration of terminology and knowledge graphs into neural machine translation architectures. Additionally, I've been working on dialogue systems and natural language generation, particularly in the context of multi-modal data. My research is supported by the <a href="https://www.insight-centre.org/" target="_blank">Insight SFI Research Centre for Data Analytics</a>, a nationwide institute that is also hosted within DSI. </p> 
      
      <p style="margin-left:10px"><b>Interests</b>:&nbsp;&bull;&nbsp;Natural Language Processing&nbsp;&bull;&nbsp;Machine Translation&nbsp;&bull;&nbsp;Dialogue Systems&nbsp;&bull;&nbsp;Knowledge Graphs </p>
      
@@ -82,142 +67,35 @@ education:
       time: 2006 - 2009
 #      details: |
       
-    - degree: MA in German Language and Literature 
+    - degree: MA in German Language & Literature 
       university: University of Ljubljana, Slovenia
       time: 1999 - 2006
 #      details: |
 
-experiences:
-    - role: Co-supervision of PhD and Master Students
-      time: 2017-
-      details: |
-          - <a href="https://tundeajayi.github.io/">Tunde Ajayi</a> (2022-/PhD/with Paul Buitelaar) on Empathetic Dialogue Systems 
-          - <a href="https://www.linkedin.com/in/alihat/?originalSubdomain=uk">Ali Hatami</a> (2021-/PhD/with Paul Buitelaar) on Multi-Modal (Speech/Video) Machine Translation 
-          - <a href="https://www.linkedin.com/in/dhairyadalal/">Dhairya Dalal</a> (2020-/PhD/with Paul Buitelaar) on Causal Reasoning 
-          - <a href="https://www.universityofgalway.ie/our-research/people/engineering-and-informatics/npasricha1/">Nivranshu Pasricha</a> (2019-/PhD/with Paul Buitelaar) on Natural Language Generation from Structured Data
-          - <a href="https://ie.linkedin.com/in/shardul-suryawanshi-phd-nlp">Shardul Suryawanshi</a> (2019-/PhD/with Paul Buitelaar) on Offensive Content Detection
-          - <a href="https://www.linkedin.com/in/rajdeep-sarkar-609a8284/?originalSubdomain=ie">Rajdeep Sarkar</a> (2019-/PhD/with John P. McCrae) on incorporating Semantic Technologies into Dialogue Systems
-          - <a href="https://ie.linkedin.com/in/jennifer-farrell-6bb147b8">Jennifer Farrell</a> (2020/MSc) on Detecting Dementia from Linguistic Characteristics using Natural Language Processing Techniques
-          - <a href="https://bharathichezhiyan.github.io/bharathiraja/">Bharathi Raja Asoka Chakravarthi</a> (2016-2020/PhD/with John P. McCrae) on Machine Translation for Under-Resourced Languages
-          - <a href="http://www.fionn.xyz/#about-me">Fionn Delahunty</a> (2019/MSc/with Robert Johansson) on Passive Diagnosis of Mental Health Disorders
-    - role: Teaching - as part of the MSc in Computer Science @ University of Galway - <a href="https://www.universityofgalway.ie/courses/taught-postgraduate-courses/msc-in-computer-science-data-analytics.html">Data Analytics</a> and <a href="https://www.universityofgalway.ie/courses/taught-postgraduate-courses/computer-science-artificial-intelligence.html">AI</a>.
-      time: 2016-2022
-      details: |
-          - Advanced Natural Language Processing (2018/2019-2021/2022)
-          - Introduction to Natural Language Processing (2016/2017, 2017/2018)
-    - role: Event Organisation
+#experiences:
+#    - role: Co-supervision of PhD and Master Students
 #      time: 2017-
-      details: |
-          - Organising Committee ESSLLI 2022
-          - Workshop on Multilingualism at the intersection of Knowledge Bases and Machine Translation (MomenT): <br>@LREC 2018 (<a href="http://lrec-conf.org/workshops/lrec2018/W19/pdf/book_of_proceedings.pdf" target="_blank">proceedings</a>), @MT-Summit 2019 (<a href="https://fc233576-d4db-4de9-b637-e339437e9442.filesusr.com/ugd/705d57_6ffdbe9400a34f50b8c30c1c05068f72.pdf" target="_blank">proceedings</a>)
-          - Local organiser of Language, Data and Knowledge (LDK) 2017, Galway, Ireland
-          - Local organiser ESSLLI 2011
-    - role: Program Committee
-#      time: 2016-
-      details: |
-          - Guest Editor of the Special Issue on <a href="https://www.mdpi.com/journal/information/special_issues/frontiers_machine_translation">Frontiers in Machine Translation</a>, (<a href="https://www.mdpi.com/journal/information">Information</a> Journal), with <a href="https://research.tilburguniversity.edu/en/persons/eva-vanmassenhove">Eva Vanmassenhove</a> and <a href="https://research.tilburguniversity.edu/en/persons/dimitar-shterionov">Dimitar Shterionov</a>.
-          - Member of program committee for different conferences and workshops in the area of NLP and semantic web, including ACL, EMNLP, LREC, ECAI, EAMT, MT-SUMMIT, WMT, ISWC, ESWC.
-    - role: Invited Talks
-#      time: 2016-
-      details: |
-          - Presentation to the MLT department at DFKI, Saarbrücken, Germany on <i>Utilising of Terminological Expressions in Knowledge Bases and Knowledge Graphs for Neural Machine Translation</i>. 2021. <a href="https://github.com/miharcan/miharcan.github.io/blob/master/files/term-kgnmt-mihael-arcan.pdf">Online</a>.
-          - Workshop #1 on NER in the Context of MT (CEF Automated Translation) on <i>Knowledge Graphs and NMT</i>. 2020. Online.
-          - Meet Central Europe (MCE 2018) on <i>The Neural Age of Machine Translation</i>. 2018. Budapest, Hungary.
-          - Translation Technology Terminology Conference (TTT-2014) on <i>Statistical Machine Translation and Terminology</i>. 2014. Bled, Slovenia
-          - Translation Technology Terminology Conference (TTT-2013) on <i>Statistical Machine Translation</i>. 2013. Zadar, Croatia.
+#      details: |
+#          - <a href="https://tundeajayi.github.io/">Tunde Ajayi</a> (2022-/PhD/with Paul Buitelaar) on Empathetic Dialogue Systems 
+#          - <a href="https://www.linkedin.com/in/alihat/?originalSubdomain=uk">Ali Hatami</a> (2021-/PhD/with Paul Buitelaar) on Multi-Modal (Speech/Video) Machine Translation 
+#          - <a href="https://www.linkedin.com/in/dhairyadalal/">Dhairya Dalal</a> (2020-/PhD/with Paul Buitelaar) on Causal Reasoning 
+#          - <a href="https://www.universityofgalway.ie/our-research/people/engineering-and-informatics/npasricha1/">Nivranshu Pasricha</a> (2019-/PhD/with Paul Buitelaar) on Natural Language Generation from Structured Data
+#          - <a href="https://ie.linkedin.com/in/shardul-suryawanshi-phd-nlp">Shardul Suryawanshi</a> (2019-/PhD/with Paul Buitelaar) on Offensive Content Detection
+#          - <a href="https://www.linkedin.com/in/rajdeep-sarkar-609a8284/?originalSubdomain=ie">Rajdeep Sarkar</a> (2019-/PhD/with John P. McCrae) on incorporating Semantic Technologies into Dialogue Systems
+#          - <a href="https://ie.linkedin.com/in/jennifer-farrell-6bb147b8">Jennifer Farrell</a> (2020/MSc) on Detecting Dementia from Linguistic Characteristics using Natural Language Processing Techniques
+#          - <a href="https://bharathichezhiyan.github.io/bharathiraja/">Bharathi Raja Asoka Chakravarthi</a> (2016-2020/PhD/with John P. McCrae) on Machine Translation for Under-Resourced Languages
+#          - <a href="http://www.fionn.xyz/#about-me">Fionn Delahunty</a> (2019/MSc/with Robert Johansson) on Passive Diagnosis of Mental Health Disorders
 
-projects:
-    title: Research Projects
-    intro: >
-#      
-    assignments:
-      - title: Passive Prediction
-        link: ""
-        tagline: "The project focuses on combining proven psychological diagnostic methods with AI. Passive Prediction is a privacy-aware mental health diagnostic sensor that analyses our written forms of expression to catch early indicators of mental health issues (Funder: Enterprise Ireland; role: PI, 2021-)"
-        
-      - title: Huawei Project
-        link: "#hook"
-        tagline: "The project focuses on Knowledge Graphs for Intent Classification in Goal-Oriented Dialog Systems. (Funder: Industry Partner/Science Foundation Ireland; role: Project Management; Scientific Leads/PIs: Paul Buitelaar/John McCrae, 2020-2022)"
-        
-      - title: DANTE Project 
-        link: "#hook"
-        tagline: "The project focuses on terminology identification in the pharmaceutical domain and the creation of multilingual terminological resources using neural machine translation approaches. (Funder: Industry Partner/Science Foundation Ireland; role: PI, 2021-2021)" 
-        
-      - title: NURS
-        link: "#hook"
-        tagline: "The project focused on neural machine translation (NMT) for under-resourced scenarios, i.e. languages or technical domains, using sequence-to-sequence models (Funder: Industry Partner/Science Foundation Ireland; role: PI, 2018-2019)"
-
-#      - title: MixedEmotions
-#        link: "http://mixedemotions.insight-centre.org/"
-#        tagline: "The project aimed to develop innovative multilingual multi-modal Big Data analytics applications (Funder: EU FP7; role: PhD student, 2015-2017)"
-
-#      - title: LIDER
-#        link: "https://cordis.europa.eu/project/id/610782"
-#        tagline: "The project aimed to provide the basis of a Linguistic Linked Data cloud for content analytics tasks (Funder: EU FP7; role: PhD student, 2013-2015)"
-        
-#      - title: EuroSentiment
-#        link: "https://cordis.europa.eu/project/id/296277"
-#        tagline: "The project aimed to develop a shared data pool for multilingual sentiment analysis systems (Funder: EU FP7; role: PhD student, 2012-2014)"
-        
-#      - title: Monnet
-#        link: "https://cordis.europa.eu/project/id/248458"
-#        tagline: "The project provided a semantics-based solution for accessing information across language barriers (Funder: EU FP7; role: PhD student, 2011-2013)"
-        
-demos:
-    title: Demos
-    intro: >
-#
-    assignments:
-      - title: Marvin
-        link: "http://server1.nlp.insight-centre.org/marvin/"
-        tagline: "a conversational chatbot with major depression disorder detection."
-        
-      - title: GrumpyBot
-        link: "http://server1.nlp.insight-centre.org/grumpybot/"
-        tagline: "a sequence to sequence deep learning chatbot using linked data."
-        
-      - title: IRIS
-        link: "http://server1.nlp.insight-centre.org/iris/"
-        tagline: "an SMT/NMT system translating from English to (less-resourced) Irish and v.v."
-        
-      - title: ASISTENT
-        link: "http://server1.nlp.insight-centre.org/asistent/"
-        tagline: "an SMT/NMT system translating between English and morphological rich South Slavic languages."
-     
-      - title: Insight META System
-        link: "https://github.com/miharcan/Insight-META-System"
-        tagline: "an SMT system accessible through an API request, supporting all official European Union languages."
-        
-      - title: OTTO
-        link: "http://server1.nlp.insight-centre.org/otto/"
-        tagline: "an SMT system for multilingual enhancement of ontologies. (CURRENTLY OFFLINE)"
-        
-      - title: TeTra
-        link: "http://server1.nlp.insight-centre.org/tetra/"
-        tagline: "a system for extracting and translating specific vocabulary (CURRENTLY OFFLINE)"
-        
-datas:
-    title: Resources
-    intro: >
-#
-    assignments:
-      - title: BitterCorpus – Bilingual IT Terminology Annotated Corpus
-        link: "http://hlt-mt.fbk.eu/technologies/bittercorpus"
-        tagline: "annotated corpora for the evaluation of monolingual and bilingual domain-specific term extraction (with HLT FBK)."
-
-      - title: PE²rr
-        link: "https://www.clarin.si/repository/xmlui/handle/11356/1065"
-        tagline: "PostEdited and ERRor annotated corpus covers machine translations, their post-edited versions and error annotations of the performed edit-operations."
-        
-      - title: Polylingual WordNet
-        link: "http://polylingwn.linguistic-lod.org/"
-        tagline: extends WordNet for 23 languages by automatic translation and is released as both OntoLex JSON-LD as well as in the Global WordNet LMF. This resource is available for re-use under the Creative Commons Attribution 4.0 License.
 
 publications:
     title: Publications
     intro: |
-      Please visit my <a href="https://scholar.google.com/citations?user=iI8CT3EAAAAJ&hl=en">Google scholar page</a> <a href="https://raw.githubusercontent.com/miharcan/miharcan.github.io/master/files/publications.bib" target="_blank"> (BibTex).</a>
-    papers:
+      Most relevant publications in regards to Lua Health:
+      - Vinson, David W., Mihael Arcan, David-Paul Niland, and Fionn Delahunty. <a href="https://arxiv.org/pdf/2402.01592.pdf">Towards Sustainable Workplace Mental Health: A Novel Approach to Early Intervention and Support</a>. arXiv preprint arXiv:2402.01592 (2024).
+      - Arcan, Mihael, Paul-David Niland, and Fionn Delahunty. <a href="https://arxiv.org/pdf/2401.04592.pdf">An Assessment on Comprehending Mental Health through Large Language Models</a>. arXiv preprint arXiv:2401.04592 (2024).
+      - Delahunty, Fionn, Robert Johansson, and Mihael Arcan. <a href="https://aclanthology.org/W19-3205.pdf">Passive Diagnosis incorporating the PHQ-4 for Depression and Anxiety</a>. In Proceedings of the Fourth Social Media Mining for Health Applications (# SMM4H) Workshop & Shared Task, pp. 40-46. 2019.
+      - Delahunty, Fionn, Ian D. Wood, and Mihael Arcan. <a href="https://aran.library.nuigalway.ie/bitstream/handle/10379/14879/First_Insights_on_a_Passive_Major_Depressive_Disorder.pdf?sequence=1">First insights on a passive major depressive disorder prediction system with incorporated conversational chatbot</a>. In Irish Conference on Artificial Intelligence and Cognitive Science. AICS 2018 and CEUR-WS. org, 2018. <br> <br>
+      Please visit my <a href="https://scholar.google.com/citations?user=iI8CT3EAAAAJ&hl=en">Google scholar page</a>. <br> <br> <br> <br> <br> <br> <br>
       
 
 
