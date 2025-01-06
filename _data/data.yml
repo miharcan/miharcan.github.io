@@ -52,7 +52,7 @@ career-profile:
 
 education:
     - degree: PhD in Computer Science
-      university: University Of Galway
+      university: University Of Galway, Ireland
       time: 2011 - 2017
 #      details: |
 #        Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -91,8 +91,9 @@ publications:
     title: Publications
     intro: |
       Most relevant publications in regards to Lua Health:
-      - Vinson, David W., Mihael Arcan, David-Paul Niland, and Fionn Delahunty. <a href="https://arxiv.org/pdf/2402.01592.pdf" target="_blank">Towards Sustainable Workplace Mental Health: A Novel Approach to Early Intervention and Support</a>. arXiv preprint arXiv:2402.01592 (2024).
-      - Arcan, Mihael, Paul-David Niland, and Fionn Delahunty. <a href="https://arxiv.org/pdf/2401.04592.pdf" target="_blank">An Assessment on Comprehending Mental Health through Large Language Models</a>. arXiv preprint arXiv:2401.04592 (2024).
+      - Periša, A., M. Arcan, D. P. Niland, F. Delahunty, D. Polšek, A. Savić, P. Brečić, and J. Vukojević. <a href="https://www.sciencedirect.com/science/article/pii/S277240852401247X?via%3Dihub" target="_blank">Prediction of clinical tools scores using transformer-based models in patients with first-episode psychosis.</a> Neuroscience Applied 3 (2024): 105182.
+      - Vinson, David W., Mihael Arcan, David-Paul Niland, and Fionn Delahunty. <a href="https://arxiv.org/pdf/2402.01592.pdf" target="_blank">Proactive Support for Employee Mental Health: Implementing a Stress Detection Algorithm in the Workplace</a>. In Proceedings of the Second International Digital Mental Health & Wellbeing Conference, Derry-Londonderry, 2024.
+      - Arcan, Mihael, Paul-David Niland, and Fionn Delahunty. <a href="https://arxiv.org/pdf/2401.04592.pdf" target="_blank">An Assessment on Comprehending Mental Health through Large Language Models</a>. 7th Healthcare Text Analytics Conference, Lancaster, 2024.
       - Delahunty, Fionn, Robert Johansson, and Mihael Arcan. <a href="https://aclanthology.org/W19-3205.pdf" target="_blank">Passive Diagnosis incorporating the PHQ-4 for Depression and Anxiety</a>. In Proceedings of the Fourth Social Media Mining for Health Applications (# SMM4H) Workshop & Shared Task, pp. 40-46. 2019.
       - Delahunty, Fionn, Ian D. Wood, and Mihael Arcan. <a href="https://aran.library.nuigalway.ie/bitstream/handle/10379/14879/First_Insights_on_a_Passive_Major_Depressive_Disorder.pdf?sequence=1" target="_blank">First insights on a passive major depressive disorder prediction system with incorporated conversational chatbot</a>. In Irish Conference on Artificial Intelligence and Cognitive Science. AICS 2018 and CEUR-WS. org, 2018. <br> <br>
       Please visit my <a href="https://scholar.google.com/citations?user=iI8CT3EAAAAJ&hl=en" target="_blank">Google scholar page</a>. <br> <br> <br> <br> <br> <br> <br>
