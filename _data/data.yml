@@ -48,7 +48,14 @@ career-profile:
 
       <p align="justify">Before Lua Health, I was a Research Fellow at the <a href="https://www.universityofgalway.ie/dsi/" target="_blank">Data Science Institute</a> at the University of Galway and a member of the <a href="https://universityofgalway.ie/dsi/nlp_unit/" target="_blank">Unit for Natural Language Processing</a>. My research included neural machine translation, terminology integration, knowledge graphs, dialogue systems, and natural language generation.</p>
 
-      <p style="margin-left:10px"><b>Research interests</b>:&nbsp;&bull;&nbsp;Natural Language Processing&nbsp;&bull;&nbsp;Large Language Models&nbsp;&bull;&nbsp;Natural Language Understanding&nbsp;&bull;&nbsp;Dialogue Systems&nbsp;&bull;&nbsp;Machine Translation </p>
+      <p><b>Current focus</b></p>
+      <ul>
+        <li>LLM / NLU systems for conversational AI</li>
+        <li>Dialogue management and reasoning</li>
+        <li>Evaluation and robustness of AI applications</li>
+        <li>Knowledge-enhanced NLP</li>
+        <li>Machine translation and terminology</li>
+      </ul>
 
 education:
     - degree: PhD in Computer Science
