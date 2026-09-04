@@ -44,7 +44,7 @@ career-profile:
     summary: |
       <p align="justify">I am an AI and Natural Language Processing researcher and technical lead, currently working at <a href="https://www.omilia.com/" target="_blank">Omilia</a> as an LLM / NLU Tech Lead. My work focuses on Large Language Models, natural language understanding, reasoning, dialogue systems, and the development of robust AI solutions for conversational applications.</p>
 
-      <p align="justify">Previously, I co-founded Lua Health, a University of Galway spin-out focused on the early detection of mental health and wellbeing signals from language. As Chief Scientific Officer, I worked on applying NLP, psycholinguistics, and machine learning to identify signs of stress, anxiety, and depression and support earlier intervention.</p>
+      <p align="justify">Previously, I co-founded <b>Lua Health</b>, a University of Galway spin-out focused on the early detection of mental health and wellbeing signals from language. As Chief Scientific Officer, I worked on applying NLP, psycholinguistics, and machine learning to identify signs of stress, anxiety, and depression and support earlier intervention.</p>
 
       <p align="justify">Before Lua Health, I was a Research Fellow at the <a href="https://www.universityofgalway.ie/dsi/" target="_blank">Data Science Institute</a> at the University of Galway and a member of the <a href="https://universityofgalway.ie/dsi/nlp_unit/" target="_blank">Unit for Natural Language Processing</a>. My research included neural machine translation, terminology integration, knowledge graphs, dialogue systems, and natural language generation.</p>
 
@@ -66,8 +66,8 @@ education:
       university: Ruhr University Bochum, Germany
       time: 2006 - 2009
 #      details: |
-      
-    - degree: MA in German Language & Literature 
+
+    - degree: MA in German Language & Literature
       university: University of Ljubljana, Slovenia
       time: 1999 - 2006
 #      details: |
@@ -92,12 +92,11 @@ publications:
     intro: |
       Selected publications:
       - Moussallem, D., A. C. Ngonga Ngomo, P. Buitelaar, and M. Arcan. <a href="https://dl.acm.org/doi/pdf/10.1145/3360901.3364423" target="_blank">Utilizing knowledge graphs for neural machine translation augmentation</a>. Proceedings of the 10th International Conference on Knowledge Capture, 139-146.
-      - Arcan, M., M. Turchi, S. Tonelli, and P. Buitelaar. <a href="https://aclanthology.org/2014.amta-researchers.5.pdf" target="_blank">Enhancing statistical machine translation with bilingual terminology in a CAT environment</a>. Proceedings of the 11th Biennial Conference of the Association for Machine Translation in the Americas.
       - Arcan, M., M. Turchi, S. Tonelli, and P. Buitelaar. <a href="https://cris.fbk.eu/bitstream/11582/310787/1/nleguide.pdf" target="_blank">Leveraging bilingual terminology to improve machine translation in a CAT environment</a>. Natural Language Engineering 23 (05), 763-788.
       - Arcan, M., M. Turchi, and P. Buitelaar. <a href="https://aclanthology.org/P15-1069.pdf" target="_blank">Knowledge Portability with Semantic Expansion of Ontology Labels</a>. Association for Computational Linguistics (ACL-2015), 708-718.
       - Delahunty, F., R. Johansson, and M. Arcan. <a href="https://aclanthology.org/W19-3205.pdf" target="_blank">Passive diagnosis incorporating the PHQ-4 for depression and anxiety</a>. Proceedings of the Fourth Social Media Mining for Health Applications Workshop.
       - Arcan, M., D. P. Niland, and F. Delahunty. <a href="https://arxiv.org/pdf/2401.04592.pdf" target="_blank">An Assessment on Comprehending Mental Health through Large Language Models</a>. 7th Healthcare Text Analytics Conference (HealTAC) 2024.
-      - Delahunty, F., I. D. Wood, and M. Arcan. <a href="https://aran.library.nuigalway.ie/bitstream/handle/10379/14879/First_Insights_on_a_Passive_Major_Depressive_Disorder.pdf?sequence=1" target="_blank">First Insights on a Passive Major Depressive Disorder Prediction System with Incorporated Conversational Chatbot</a>. 26th AIAI Irish Conference on Artificial Intelligence and Cognitive Science. <br> <br>
+      <br>
       Please visit my <a href="https://scholar.google.com/citations?user=iI8CT3EAAAAJ&hl=en" target="_blank">Google scholar page</a>. <br> <br> <br> <br> <br> <br> <br>
       
 
