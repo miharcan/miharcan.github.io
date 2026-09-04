@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Mihael Arcan
-    tagline: AI, NLP and LLM Systems
+    tagline: LLM / NLU Tech Lead at <a href="https://www.omilia.com/" target="_blank">Omilia</a>
     avatar: SON4609-133_100_100.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: mihael@luahealth.io
+    email: marcan@omilia.com
     #phone: 012 345 6789
     #website1: something #do not add http://
     #website2: DSI profile #do not add http://
@@ -42,9 +42,13 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      <p align="justify">I build production-grade AI systems, with a focus on retrieval-augmented generation, agentic workflows, LLM evaluation, guardrails, and applied natural language processing. My work connects research depth with practical software delivery: Python and FastAPI services, vector search, PostgreSQL-backed systems, Docker-based deployment, and measurable quality controls for language-model applications. <br> <br> I was a co-founder of <a href="https://www.luahealth.io/" target="_blank">Lua Health</a>, a University of Galway spinout applying psycholinguistics and machine learning to workplace well-being, prevention, and early support. Prior to Lua, I was a research fellow at the <a href="https://www.universityofgalway.ie/dsi/" target="_blank">Data Science Institute</a> at the University of Galway, working in the <a href="https://universityofgalway.ie/dsi/nlp_unit/" target="_blank">Unit for Natural Language Processing</a> on terminology, knowledge graphs, neural machine translation, dialogue systems, and natural language generation.</p>
+      <p align="justify">I am an AI and Natural Language Processing researcher and technical lead, currently working at <a href="https://www.omilia.com/" target="_blank">Omilia</a> as an LLM / NLU Tech Lead. My work focuses on Large Language Models, natural language understanding, reasoning, dialogue systems, and the development of robust AI solutions for conversational applications.</p>
 
-      <p style="margin-left:10px"><b>Focus</b>:&nbsp;&bull;&nbsp;RAG&nbsp;&bull;&nbsp;Agentic Workflows&nbsp;&bull;&nbsp;LLM Evaluation&nbsp;&bull;&nbsp;Guardrails&nbsp;&bull;&nbsp;Natural Language Processing </p>
+      <p align="justify">Previously, I co-founded <a href="https://www.luahealth.io/" target="_blank">Lua Health</a>, a University of Galway spin-out focused on the early detection of mental health and wellbeing signals from language. As Chief Scientific Officer, I worked on applying NLP, psycholinguistics, and machine learning to identify signs of stress, anxiety, and depression and support earlier intervention.</p>
+
+      <p align="justify">Before Lua Health, I was a Research Fellow at the <a href="https://www.universityofgalway.ie/dsi/" target="_blank">Data Science Institute</a> at the University of Galway and a member of the <a href="https://universityofgalway.ie/dsi/nlp_unit/" target="_blank">Unit for Natural Language Processing</a>. My research included neural machine translation, terminology integration, knowledge graphs, dialogue systems, and natural language generation.</p>
+
+      <p style="margin-left:10px"><b>Research interests</b>:&nbsp;&bull;&nbsp;Natural Language Processing&nbsp;&bull;&nbsp;Large Language Models&nbsp;&bull;&nbsp;Natural Language Understanding&nbsp;&bull;&nbsp;Dialogue Systems&nbsp;&bull;&nbsp;Machine Translation </p>
 
 education:
     - degree: PhD in Computer Science
@@ -68,25 +72,6 @@ education:
       time: 1999 - 2006
 #      details: |
 
-projects:
-    title: Featured Work
-    assignments:
-      - title: grounded-react
-        link: https://github.com/miharcan/grounded-react
-        tagline: Retrieval-grounded ReAct over documents and source code.
-
-      - title: llm-platform
-        link: https://github.com/miharcan/llm-platform
-        tagline: Multi-tenant RAG platform with RBAC, audit logging, and Qdrant.
-
-      - title: chatbot_guardrails
-        link: https://github.com/miharcan/chatbot_guardrails
-        tagline: Explainable safety guardrails API for LLM-backed chat systems.
-
-      - title: event-driven-alpha
-        link: https://github.com/miharcan/event-driven-alpha
-        tagline: Leakage-controlled NLP signals for time-series prediction.
-
 #experiences:
 #    - role: Co-supervision of PhD and Master Students
 #      time: 2017-
@@ -105,7 +90,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      Most relevant publications in regards to Lua Health:
+      Selected publications:
       - Periša, A., M. Arcan, D. P. Niland, F. Delahunty, D. Polšek, A. Savić, P. Brečić, and J. Vukojević. <a href="https://www.sciencedirect.com/science/article/pii/S277240852401247X?via%3Dihub" target="_blank">Prediction of clinical tools scores using transformer-based models in patients with first-episode psychosis.</a> Neuroscience Applied 3 (2024): 105182.
       - Vinson, David W., Mihael Arcan, David-Paul Niland, and Fionn Delahunty. <a href="https://arxiv.org/pdf/2402.01592.pdf" target="_blank">Proactive Support for Employee Mental Health: Implementing a Stress Detection Algorithm in the Workplace</a>. In Proceedings of the Second International Digital Mental Health & Wellbeing Conference, Derry-Londonderry, 2024.
       - Arcan, Mihael, Paul-David Niland, and Fionn Delahunty. <a href="https://arxiv.org/pdf/2401.04592.pdf" target="_blank">An Assessment on Comprehending Mental Health through Large Language Models</a>. 7th Healthcare Text Analytics Conference, Lancaster, 2024.
