@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Mihael Arcan
-    tagline: Co-Founder of <a href="https://luahealth.io" target="_blank">Lua Health</a>
+    tagline: AI, NLP and LLM Systems
     avatar: SON4609-133_100_100.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -18,7 +18,7 @@ sidebar:
     #website2: DSI profile #do not add http://
     #website3: University of Galway profile #do not add http://
     linkedin: LinkedIn
-    #github: miharcan
+    github: miharcan
     #gitlab:
     #bitbucket:
     #twitter: '@miharcan'
@@ -41,14 +41,10 @@ sidebar:
 
 career-profile:
     title: Profile
-    summary:  <p align="justify">I am proud to be one of the co-founders of <a href="https://www.luahealth.io/" target="_blank">Lua Health</a>, a pioneering startup dedicated to enhancing mental well-being in the corporate realm. Lua Health specialises in discreetly and precisely identifying workplace-related wellness issues, offering a clear path towards early intervention. We firmly believe that the future of well-being lies in prevention and early detection, ensuring individuals receive the assistance they need when it matters most. Through our innovative SaaS-based solution, we empower businesses to provide timely and tailored support to their employees. Lua Health is a spinoff from the <a href="https://www.universityofgalway.ie/" target="_blank">University of Galway</a>, drawing from decades of research in psycholinguistics. <br> <br> Prior to Lua, I held the role of a research fellow at the <a href="https://www.universityofgalway.ie/dsi/" target="_blank">Data Science Institute</a> (DSI), which is part of the University of Galway. There, I was an active member of the <a href="https://universityofgalway.ie/dsi/nlp_unit/" target="_blank">Unit for Natural Language Processing </a> (UNLP) led by <a href="https://www.universityofgalway.ie/our-research/people/computer-science/paulbuitelaar/" target="_blank">Paul Buitelaar</a>, focusing primarily on integrating terminology and knowledge graphs into neural machine translation architectures, alongside working on dialogue systems and natural language generation within the context of multi-modal data.</p> 
-    
-     
-     <p style="margin-left:10px"><b>Interests</b>:&nbsp;&bull;&nbsp;Natural Language Processing&nbsp;&bull;&nbsp;Machine Translation&nbsp;&bull;&nbsp;Dialogue Systems&nbsp;&bull;&nbsp;Knowledge Graphs </p>
-     
+    summary: |
+      <p align="justify">I build production-grade AI systems, with a focus on retrieval-augmented generation, agentic workflows, LLM evaluation, guardrails, and applied natural language processing. My work connects research depth with practical software delivery: Python and FastAPI services, vector search, PostgreSQL-backed systems, Docker-based deployment, and measurable quality controls for language-model applications. <br> <br> I was a co-founder of <a href="https://www.luahealth.io/" target="_blank">Lua Health</a>, a University of Galway spinout applying psycholinguistics and machine learning to workplace well-being, prevention, and early support. Prior to Lua, I was a research fellow at the <a href="https://www.universityofgalway.ie/dsi/" target="_blank">Data Science Institute</a> at the University of Galway, working in the <a href="https://universityofgalway.ie/dsi/nlp_unit/" target="_blank">Unit for Natural Language Processing</a> on terminology, knowledge graphs, neural machine translation, dialogue systems, and natural language generation.</p>
 
- 
-     
+      <p style="margin-left:10px"><b>Focus</b>:&nbsp;&bull;&nbsp;RAG&nbsp;&bull;&nbsp;Agentic Workflows&nbsp;&bull;&nbsp;LLM Evaluation&nbsp;&bull;&nbsp;Guardrails&nbsp;&bull;&nbsp;Natural Language Processing </p>
 
 education:
     - degree: PhD in Computer Science
@@ -71,6 +67,25 @@ education:
       university: University of Ljubljana, Slovenia
       time: 1999 - 2006
 #      details: |
+
+projects:
+    title: Featured Work
+    assignments:
+      - title: grounded-react
+        link: https://github.com/miharcan/grounded-react
+        tagline: Retrieval-grounded ReAct over documents and source code.
+
+      - title: llm-platform
+        link: https://github.com/miharcan/llm-platform
+        tagline: Multi-tenant RAG platform with RBAC, audit logging, and Qdrant.
+
+      - title: chatbot_guardrails
+        link: https://github.com/miharcan/chatbot_guardrails
+        tagline: Explainable safety guardrails API for LLM-backed chat systems.
+
+      - title: event-driven-alpha
+        link: https://github.com/miharcan/event-driven-alpha
+        tagline: Leakage-controlled NLP signals for time-series prediction.
 
 #experiences:
 #    - role: Co-supervision of PhD and Master Students
